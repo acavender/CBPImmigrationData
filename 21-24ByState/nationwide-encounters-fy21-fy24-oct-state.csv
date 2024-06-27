@@ -1,4 +1,4 @@
-Fiscal Year,Month Grouping,Month (abbv),Land Border Region,State,Demographic,Citizenship,Title of Authority,Encounter Count
+Fiscal Year,Month Grouping,Month abbv,Land Border Region,State,Demographic,AOR abbv,Title of Authority,Encounter Count
 2021,FYTD,OCT,Northern Land Border,ID,Single Adults,EL SALVADOR,Title 8,1
 2021,FYTD,OCT,Northern Land Border,ID,Single Adults,OTHER,Title 8,1
 2021,FYTD,OCT,Northern Land Border,ME,Accompanied Minors,CANADA,Title 42,4
@@ -34587,1045 +34587,1045 @@ Fiscal Year,Month Grouping,Month (abbv),Land Border Region,State,Demographic,Cit
 2023,Remaining,SEP,Southwest Land Border,TX,UC / Single Minors,OTHER,Title 8,12
 2023,Remaining,SEP,Southwest Land Border,TX,UC / Single Minors,PERU,Title 8,14
 2023,Remaining,SEP,Southwest Land Border,TX,UC / Single Minors,VENEZUELA,Title 8,705
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,FMUA,COLOMBIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,FMUA,MEXICO,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,FMUA,OTHER,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,FMUA,PHILIPPINES,Title 8,7
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,Single Adults,CANADA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,Single Adults,INDIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,Single Adults,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,Single Adults,OTHER,Title 8,12
-2024 (FYTD),FYTD,OCT,Northern Land Border,AK,Single Adults,PHILIPPINES,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,ID,Single Adults,CANADA,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,ID,Single Adults,HAITI,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,ID,Single Adults,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Accompanied Minors,OTHER,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,BRAZIL,Title 8,30
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,CANADA,Title 8,27
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,20
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,COLOMBIA,Title 8,37
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,ECUADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,HAITI,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,INDIA,Title 8,37
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,MEXICO,Title 8,42
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,OTHER,Title 8,204
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,PHILIPPINES,Title 8,31
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,ROMANIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,RUSSIA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,TURKEY,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,UKRAINE,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,FMUA,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,BRAZIL,Title 8,14
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,CANADA,Title 8,126
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,32
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,COLOMBIA,Title 8,42
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,ECUADOR,Title 8,8
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,EL SALVADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,GUATEMALA,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,HAITI,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,HONDURAS,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,INDIA,Title 8,101
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,MEXICO,Title 8,60
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,NICARAGUA,Title 8,15
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,OTHER,Title 8,558
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,PERU,Title 8,7
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,PHILIPPINES,Title 8,147
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,ROMANIA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,RUSSIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,ME,Single Adults,UKRAINE,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Accompanied Minors,CANADA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Accompanied Minors,OTHER,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,CANADA,Title 8,24
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,INDIA,Title 8,17
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,MEXICO,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,OTHER,Title 8,88
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,PHILIPPINES,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,RUSSIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,UKRAINE,Title 8,11
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,FMUA,VENEZUELA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,BRAZIL,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,CANADA,Title 8,330
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,52
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,COLOMBIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,CUBA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,ECUADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,EL SALVADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,GUATEMALA,Title 8,23
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,HONDURAS,Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,INDIA,Title 8,159
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,MEXICO,Title 8,50
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,NICARAGUA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,OTHER,Title 8,322
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,PERU,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,PHILIPPINES,Title 8,54
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,ROMANIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,TURKEY,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,UKRAINE,Title 8,22
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,Single Adults,VENEZUELA,Title 8,7
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,UC / Single Minors,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,UC / Single Minors,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MI,UC / Single Minors,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,FMUA,OTHER,Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,CANADA,Title 8,19
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,COLOMBIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,HAITI,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,INDIA,Title 8,30
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,MEXICO,Title 8,11
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,NICARAGUA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,OTHER,Title 8,16
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,PHILIPPINES,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,Single Adults,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,UC / Single Minors,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MN,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Accompanied Minors,ECUADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,CANADA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,27
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,INDIA,Title 8,63
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,MEXICO,Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,OTHER,Title 8,90
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,PHILIPPINES,Title 8,20
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,ROMANIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,FMUA,UKRAINE,Title 8,12
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,BRAZIL,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,CANADA,Title 8,131
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,33
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,COLOMBIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,ECUADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,EL SALVADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,INDIA,Title 8,222
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,MEXICO,Title 8,27
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,OTHER,Title 8,168
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,PHILIPPINES,Title 8,52
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,ROMANIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,UKRAINE,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,Single Adults,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,MT,UC / Single Minors,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,14
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,ECUADOR,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,INDIA,Title 8,12
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,MEXICO,Title 8,7
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,OTHER,Title 8,67
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,PHILIPPINES,Title 8,8
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,FMUA,UKRAINE,Title 8,13
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,CANADA,Title 8,98
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,40
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,INDIA,Title 8,45
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,MEXICO,Title 8,11
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,OTHER,Title 8,119
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,PHILIPPINES,Title 8,25
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,ROMANIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,Single Adults,UKRAINE,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,ND,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Accompanied Minors,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Accompanied Minors,COLOMBIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Accompanied Minors,OTHER,Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,BRAZIL,Title 8,26
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,CANADA,Title 8,52
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,52
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,COLOMBIA,Title 8,23
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,ECUADOR,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,EL SALVADOR,Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,GUATEMALA,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,HAITI,Title 8,11
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,INDIA,Title 8,278
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,MEXICO,Title 8,111
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,OTHER,Title 8,555
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,PERU,Title 8,8
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,PHILIPPINES,Title 8,51
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,ROMANIA,Title 8,12
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,TURKEY,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,UKRAINE,Title 8,8
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,FMUA,VENEZUELA,Title 8,14
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,BRAZIL,Title 8,41
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,CANADA,Title 8,1048
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,243
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,COLOMBIA,Title 8,33
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,CUBA,Title 8,22
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,ECUADOR,Title 8,21
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,EL SALVADOR,Title 8,8
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,GUATEMALA,Title 8,38
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,HAITI,Title 8,28
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,HONDURAS,Title 8,21
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,INDIA,Title 8,829
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,MEXICO,Title 8,516
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,MYANMAR (BURMA),Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,NICARAGUA,Title 8,17
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,OTHER,Title 8,1748
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,PERU,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,PHILIPPINES,Title 8,114
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,ROMANIA,Title 8,11
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,RUSSIA,Title 8,12
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,TURKEY,Title 8,16
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,UKRAINE,Title 8,44
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,Single Adults,VENEZUELA,Title 8,31
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,OTHER,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,NY,UC / Single Minors,UKRAINE,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,OH,Single Adults,ECUADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,OH,Single Adults,GUATEMALA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,OH,Single Adults,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Accompanied Minors,OTHER,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,BRAZIL,Title 8,21
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,CANADA,Title 8,26
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,COLOMBIA,Title 8,23
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,HAITI,Title 8,19
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,INDIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,MEXICO,Title 8,56
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,OTHER,Title 8,272
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,PERU,Title 8,8
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,PHILIPPINES,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,ROMANIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,FMUA,VENEZUELA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,BRAZIL,Title 8,27
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,CANADA,Title 8,124
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,22
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,COLOMBIA,Title 8,29
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,CUBA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,ECUADOR,Title 8,7
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,GUATEMALA,Title 8,17
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,HAITI,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,HONDURAS,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,INDIA,Title 8,28
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,MEXICO,Title 8,178
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,NICARAGUA,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,OTHER,Title 8,898
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,PERU,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,PHILIPPINES,Title 8,28
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,ROMANIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,Single Adults,VENEZUELA,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,VT,UC / Single Minors,MEXICO,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Accompanied Minors,INDIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Accompanied Minors,OTHER,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Accompanied Minors,PHILIPPINES,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,CANADA,Title 8,7
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,75
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,COLOMBIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,HAITI,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,HONDURAS,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,INDIA,Title 8,94
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,MEXICO,Title 8,30
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,OTHER,Title 8,256
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,PHILIPPINES,Title 8,22
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,ROMANIA,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,TURKEY,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,FMUA,UKRAINE,Title 8,17
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,BRAZIL,Title 8,15
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,CANADA,Title 8,435
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,306
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,COLOMBIA,Title 8,13
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,ECUADOR,Title 8,9
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,EL SALVADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,GUATEMALA,Title 8,6
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,HAITI,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,INDIA,Title 8,687
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,MEXICO,Title 8,168
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,MYANMAR (BURMA),Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,NICARAGUA,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,OTHER,Title 8,757
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,PERU,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,PHILIPPINES,Title 8,89
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,ROMANIA,Title 8,14
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,RUSSIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,TURKEY,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,UKRAINE,Title 8,22
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,Single Adults,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,UC / Single Minors,INDIA,Title 8,4
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,UC / Single Minors,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Northern Land Border,WA,UC / Single Minors,ROMANIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,AK,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
-2024 (FYTD),FYTD,OCT,Other,AK,Single Adults,INDIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,AK,Single Adults,MYANMAR (BURMA),Title 8,8
-2024 (FYTD),FYTD,OCT,Other,AK,Single Adults,OTHER,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,AK,Single Adults,PHILIPPINES,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,AK,Single Adults,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,EL SALVADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,HONDURAS,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,INDIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,MEXICO,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,PHILIPPINES,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,RUSSIA,Title 8,12
-2024 (FYTD),FYTD,OCT,Other,AL,Single Adults,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,AZ,FMUA,CUBA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,AZ,FMUA,OTHER,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,AZ,FMUA,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,AZ,Single Adults,CUBA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,AZ,Single Adults,MEXICO,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,AZ,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CA,Accompanied Minors,NICARAGUA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,CA,Accompanied Minors,OTHER,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,8
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,COLOMBIA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,EL SALVADOR,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,GUATEMALA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,MEXICO,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,NICARAGUA,Title 8,262
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,OTHER,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,PERU,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,UKRAINE,Title 8,274
-2024 (FYTD),FYTD,OCT,Other,CA,FMUA,VENEZUELA,Title 8,32
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,BRAZIL,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,CANADA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,309
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,COLOMBIA,Title 8,17
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,CUBA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,ECUADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,EL SALVADOR,Title 8,18
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,GUATEMALA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,HAITI,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,INDIA,Title 8,222
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,MEXICO,Title 8,118
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,MYANMAR (BURMA),Title 8,71
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,NICARAGUA,Title 8,586
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,OTHER,Title 8,440
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,PERU,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,PHILIPPINES,Title 8,568
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,ROMANIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,RUSSIA,Title 8,76
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,TURKEY,Title 8,27
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,UKRAINE,Title 8,421
-2024 (FYTD),FYTD,OCT,Other,CA,Single Adults,VENEZUELA,Title 8,43
-2024 (FYTD),FYTD,OCT,Other,CO,FMUA,CUBA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,CO,FMUA,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CO,FMUA,UKRAINE,Title 8,38
-2024 (FYTD),FYTD,OCT,Other,CO,FMUA,VENEZUELA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,CUBA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,MEXICO,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,NICARAGUA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,OTHER,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,UKRAINE,Title 8,39
-2024 (FYTD),FYTD,OCT,Other,CO,Single Adults,VENEZUELA,Title 8,16
-2024 (FYTD),FYTD,OCT,Other,CT,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CT,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CT,Single Adults,PHILIPPINES,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,CT,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,CT,Single Adults,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,DC,Accompanied Minors,HAITI,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,DC,Accompanied Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DC,FMUA,CANADA,Title 8,13
-2024 (FYTD),FYTD,OCT,Other,DC,FMUA,HAITI,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,DC,FMUA,OTHER,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,DC,FMUA,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DC,FMUA,UKRAINE,Title 8,92
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,BRAZIL,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,CANADA,Title 8,625
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,15
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,COLOMBIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,HAITI,Title 8,99
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,INDIA,Title 8,15
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,MEXICO,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,NICARAGUA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,OTHER,Title 8,156
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,PHILIPPINES,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,UKRAINE,Title 8,158
-2024 (FYTD),FYTD,OCT,Other,DC,Single Adults,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,DC,UC / Single Minors,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DC,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,8
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,INDIA,Title 8,20
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,MYANMAR (BURMA),Title 8,1
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,OTHER,Title 8,22
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,PHILIPPINES,Title 8,76
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,RUSSIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,DE,Single Adults,UKRAINE,Title 8,15
-2024 (FYTD),FYTD,OCT,Other,FL,Accompanied Minors,CUBA,Title 8,49
-2024 (FYTD),FYTD,OCT,Other,FL,Accompanied Minors,HAITI,Title 8,217
-2024 (FYTD),FYTD,OCT,Other,FL,Accompanied Minors,NICARAGUA,Title 8,22
-2024 (FYTD),FYTD,OCT,Other,FL,Accompanied Minors,VENEZUELA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,BRAZIL,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,COLOMBIA,Title 8,34
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,CUBA,Title 8,2028
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,ECUADOR,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,EL SALVADOR,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,HAITI,Title 8,3171
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,HONDURAS,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,NICARAGUA,Title 8,1137
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,OTHER,Title 8,48
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,PERU,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,RUSSIA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,UKRAINE,Title 8,181
-2024 (FYTD),FYTD,OCT,Other,FL,FMUA,VENEZUELA,Title 8,1903
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,BRAZIL,Title 8,43
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,CANADA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,53
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,COLOMBIA,Title 8,108
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,CUBA,Title 8,2919
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,ECUADOR,Title 8,22
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,EL SALVADOR,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,GUATEMALA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,HAITI,Title 8,8631
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,HONDURAS,Title 8,30
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,INDIA,Title 8,247
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,MEXICO,Title 8,29
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,MYANMAR (BURMA),Title 8,4
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,NICARAGUA,Title 8,2447
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,OTHER,Title 8,792
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,PERU,Title 8,20
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,PHILIPPINES,Title 8,300
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,ROMANIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,RUSSIA,Title 8,116
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,TURKEY,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,UKRAINE,Title 8,386
-2024 (FYTD),FYTD,OCT,Other,FL,Single Adults,VENEZUELA,Title 8,2128
-2024 (FYTD),FYTD,OCT,Other,FL,UC / Single Minors,CUBA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,FL,UC / Single Minors,HAITI,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,FL,UC / Single Minors,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,FL,UC / Single Minors,VENEZUELA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,GA,Accompanied Minors,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,CUBA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,GUATEMALA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,HAITI,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,NICARAGUA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,OTHER,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,UKRAINE,Title 8,44
-2024 (FYTD),FYTD,OCT,Other,GA,FMUA,VENEZUELA,Title 8,53
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,BRAZIL,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,CANADA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,18
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,COLOMBIA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,CUBA,Title 8,39
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,ECUADOR,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,EL SALVADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,GUATEMALA,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,HAITI,Title 8,39
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,HONDURAS,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,INDIA,Title 8,35
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,MEXICO,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,MYANMAR (BURMA),Title 8,10
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,NICARAGUA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,OTHER,Title 8,68
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,PERU,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,PHILIPPINES,Title 8,43
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,ROMANIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,RUSSIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,UKRAINE,Title 8,78
-2024 (FYTD),FYTD,OCT,Other,GA,Single Adults,VENEZUELA,Title 8,71
-2024 (FYTD),FYTD,OCT,Other,GA,UC / Single Minors,INDIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,28
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,INDIA,Title 8,16
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,MYANMAR (BURMA),Title 8,33
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,OTHER,Title 8,24
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,PHILIPPINES,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,GU,Single Adults,UKRAINE,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,HI,FMUA,OTHER,Title 8,30
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,31
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,INDIA,Title 8,18
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,MYANMAR (BURMA),Title 8,1
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,NICARAGUA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,OTHER,Title 8,144
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,PHILIPPINES,Title 8,82
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,RUSSIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,HI,Single Adults,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,HI,UC / Single Minors,OTHER,Title 8,17
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,COLOMBIA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,ECUADOR,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,INDIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,NICARAGUA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,OTHER,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,PERU,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,ROMANIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,RUSSIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,UKRAINE,Title 8,651
-2024 (FYTD),FYTD,OCT,Other,IL,FMUA,VENEZUELA,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,BRAZIL,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,6
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,COLOMBIA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,ECUADOR,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,GUATEMALA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,HAITI,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,INDIA,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,MEXICO,Title 8,58
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,NICARAGUA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,OTHER,Title 8,121
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,PERU,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,PHILIPPINES,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,RUSSIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,UKRAINE,Title 8,710
-2024 (FYTD),FYTD,OCT,Other,IL,Single Adults,VENEZUELA,Title 8,38
-2024 (FYTD),FYTD,OCT,Other,IL,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,KY,FMUA,UKRAINE,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,KY,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,KY,Single Adults,UKRAINE,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,70
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,COLOMBIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,HONDURAS,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,INDIA,Title 8,131
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,MEXICO,Title 8,18
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,MYANMAR (BURMA),Title 8,72
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,OTHER,Title 8,86
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,PHILIPPINES,Title 8,370
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,ROMANIA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,RUSSIA,Title 8,45
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,TURKEY,Title 8,35
-2024 (FYTD),FYTD,OCT,Other,LA,Single Adults,UKRAINE,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,MA,Accompanied Minors,HAITI,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,MA,FMUA,HAITI,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,MA,FMUA,INDIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,MA,FMUA,OTHER,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,MA,FMUA,UKRAINE,Title 8,41
-2024 (FYTD),FYTD,OCT,Other,MA,FMUA,VENEZUELA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,BRAZIL,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,3
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,COLOMBIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,EL SALVADOR,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,HAITI,Title 8,43
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,INDIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,NICARAGUA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,OTHER,Title 8,57
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,PERU,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,PHILIPPINES,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,TURKEY,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,UKRAINE,Title 8,74
-2024 (FYTD),FYTD,OCT,Other,MA,Single Adults,VENEZUELA,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,MD,FMUA,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,12
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,INDIA,Title 8,36
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,OTHER,Title 8,89
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,PHILIPPINES,Title 8,347
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,ROMANIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,RUSSIA,Title 8,27
-2024 (FYTD),FYTD,OCT,Other,MD,Single Adults,UKRAINE,Title 8,47
-2024 (FYTD),FYTD,OCT,Other,ME,Single Adults,INDIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,ME,Single Adults,OTHER,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,ME,Single Adults,PHILIPPINES,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,ME,Single Adults,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MI,FMUA,UKRAINE,Title 8,73
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,CANADA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,CUBA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,HAITI,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,INDIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,MEXICO,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,NICARAGUA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,OTHER,Title 8,51
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,PHILIPPINES,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,UKRAINE,Title 8,62
-2024 (FYTD),FYTD,OCT,Other,MI,Single Adults,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MN,FMUA,CUBA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MN,FMUA,OTHER,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,MN,FMUA,UKRAINE,Title 8,36
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,HAITI,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,OTHER,Title 8,44
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,PHILIPPINES,Title 8,22
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,ROMANIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,MN,Single Adults,UKRAINE,Title 8,53
-2024 (FYTD),FYTD,OCT,Other,MO,FMUA,UKRAINE,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MO,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MO,Single Adults,UKRAINE,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MP,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
-2024 (FYTD),FYTD,OCT,Other,MP,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,82
-2024 (FYTD),FYTD,OCT,Other,MP,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,801
-2024 (FYTD),FYTD,OCT,Other,MP,Single Adults,OTHER,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,MP,Single Adults,PHILIPPINES,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,EL SALVADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,GUATEMALA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,HONDURAS,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,INDIA,Title 8,15
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,MEXICO,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,PHILIPPINES,Title 8,19
-2024 (FYTD),FYTD,OCT,Other,MS,Single Adults,RUSSIA,Title 8,19
-2024 (FYTD),FYTD,OCT,Other,MS,UC / Single Minors,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NC,FMUA,CUBA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NC,FMUA,NICARAGUA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NC,FMUA,UKRAINE,Title 8,68
-2024 (FYTD),FYTD,OCT,Other,NC,FMUA,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,CUBA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,HAITI,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,INDIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,NICARAGUA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,OTHER,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,PHILIPPINES,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,RUSSIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,UKRAINE,Title 8,56
-2024 (FYTD),FYTD,OCT,Other,NC,Single Adults,VENEZUELA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,COLOMBIA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,CUBA,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,HAITI,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,NICARAGUA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,OTHER,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,UKRAINE,Title 8,234
-2024 (FYTD),FYTD,OCT,Other,NJ,FMUA,VENEZUELA,Title 8,16
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,BRAZIL,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,CANADA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,30
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,COLOMBIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,CUBA,Title 8,26
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,ECUADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,GUATEMALA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,HAITI,Title 8,44
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,HONDURAS,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,INDIA,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,MEXICO,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,MYANMAR (BURMA),Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,NICARAGUA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,OTHER,Title 8,107
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,PERU,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,PHILIPPINES,Title 8,54
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,UKRAINE,Title 8,343
-2024 (FYTD),FYTD,OCT,Other,NJ,Single Adults,VENEZUELA,Title 8,30
-2024 (FYTD),FYTD,OCT,Other,NV,FMUA,CUBA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NV,FMUA,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NV,FMUA,NICARAGUA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,NV,FMUA,UKRAINE,Title 8,13
-2024 (FYTD),FYTD,OCT,Other,NV,FMUA,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,BRAZIL,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,COLOMBIA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,CUBA,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,MEXICO,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,NICARAGUA,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,OTHER,Title 8,18
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,PERU,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,UKRAINE,Title 8,25
-2024 (FYTD),FYTD,OCT,Other,NV,Single Adults,VENEZUELA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NY,Accompanied Minors,HAITI,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,NY,Accompanied Minors,OTHER,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,NY,Accompanied Minors,UKRAINE,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NY,Accompanied Minors,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,COLOMBIA,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,EL SALVADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,HAITI,Title 8,555
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,NICARAGUA,Title 8,46
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,OTHER,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,RUSSIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,UKRAINE,Title 8,495
-2024 (FYTD),FYTD,OCT,Other,NY,FMUA,VENEZUELA,Title 8,62
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,BRAZIL,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,COLOMBIA,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,CUBA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,ECUADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,EL SALVADOR,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,GUATEMALA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,HAITI,Title 8,1285
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,INDIA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,MEXICO,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,NICARAGUA,Title 8,54
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,OTHER,Title 8,130
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,PERU,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,PHILIPPINES,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,ROMANIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,RUSSIA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,UKRAINE,Title 8,600
-2024 (FYTD),FYTD,OCT,Other,NY,Single Adults,VENEZUELA,Title 8,84
-2024 (FYTD),FYTD,OCT,Other,OR,FMUA,UKRAINE,Title 8,45
-2024 (FYTD),FYTD,OCT,Other,OR,Single Adults,INDIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,OR,Single Adults,MEXICO,Title 8,33
-2024 (FYTD),FYTD,OCT,Other,OR,Single Adults,OTHER,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,OR,Single Adults,PHILIPPINES,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,OR,Single Adults,ROMANIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,OR,Single Adults,UKRAINE,Title 8,30
-2024 (FYTD),FYTD,OCT,Other,PA,FMUA,UKRAINE,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,CANADA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,18
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,HAITI,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,INDIA,Title 8,51
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,MEXICO,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,MYANMAR (BURMA),Title 8,15
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,OTHER,Title 8,66
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,PHILIPPINES,Title 8,87
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,ROMANIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,RUSSIA,Title 8,28
-2024 (FYTD),FYTD,OCT,Other,PA,Single Adults,UKRAINE,Title 8,54
-2024 (FYTD),FYTD,OCT,Other,PR,FMUA,BRAZIL,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,PR,FMUA,OTHER,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,PR,FMUA,ROMANIA,Title 8,15
-2024 (FYTD),FYTD,OCT,Other,PR,FMUA,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,BRAZIL,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,21
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,COLOMBIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,CUBA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,ECUADOR,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,EL SALVADOR,Title 8,119
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,GUATEMALA,Title 8,12
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,HAITI,Title 8,58
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,HONDURAS,Title 8,318
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,INDIA,Title 8,44
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,MEXICO,Title 8,16
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,MYANMAR (BURMA),Title 8,24
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,NICARAGUA,Title 8,38
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,OTHER,Title 8,348
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,PERU,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,PHILIPPINES,Title 8,282
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,RUSSIA,Title 8,36
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,TURKEY,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,UKRAINE,Title 8,16
-2024 (FYTD),FYTD,OCT,Other,PR,Single Adults,VENEZUELA,Title 8,68
-2024 (FYTD),FYTD,OCT,Other,PR,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,RI,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,RI,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,6
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,COLOMBIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,INDIA,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,MYANMAR (BURMA),Title 8,8
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,OTHER,Title 8,39
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,PHILIPPINES,Title 8,74
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,RUSSIA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,SC,Single Adults,UKRAINE,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,TN,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TN,Single Adults,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TX,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
-2024 (FYTD),FYTD,OCT,Other,TX,Accompanied Minors,CUBA,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,TX,Accompanied Minors,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TX,Accompanied Minors,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TX,Accompanied Minors,NICARAGUA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,TX,Accompanied Minors,OTHER,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,COLOMBIA,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,CUBA,Title 8,129
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,EL SALVADOR,Title 8,25
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,GUATEMALA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,HAITI,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,HONDURAS,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,MEXICO,Title 8,19
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,NICARAGUA,Title 8,144
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,OTHER,Title 8,24
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,PERU,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,UKRAINE,Title 8,76
-2024 (FYTD),FYTD,OCT,Other,TX,FMUA,VENEZUELA,Title 8,141
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,BRAZIL,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,CANADA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,343
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,COLOMBIA,Title 8,31
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,CUBA,Title 8,269
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,ECUADOR,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,EL SALVADOR,Title 8,33
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,GUATEMALA,Title 8,28
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,HAITI,Title 8,34
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,HONDURAS,Title 8,37
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,INDIA,Title 8,721
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,MEXICO,Title 8,134
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,MYANMAR (BURMA),Title 8,138
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,NICARAGUA,Title 8,286
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,OTHER,Title 8,894
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,PERU,Title 8,76
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,PHILIPPINES,Title 8,1545
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,ROMANIA,Title 8,20
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,RUSSIA,Title 8,480
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,TURKEY,Title 8,62
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,UKRAINE,Title 8,280
-2024 (FYTD),FYTD,OCT,Other,TX,Single Adults,VENEZUELA,Title 8,207
-2024 (FYTD),FYTD,OCT,Other,TX,UC / Single Minors,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,TX,UC / Single Minors,NICARAGUA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,TX,UC / Single Minors,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,UT,FMUA,UKRAINE,Title 8,19
-2024 (FYTD),FYTD,OCT,Other,UT,Single Adults,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,UT,Single Adults,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,UT,Single Adults,UKRAINE,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,UT,Single Adults,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VA,Accompanied Minors,EL SALVADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,VA,Accompanied Minors,NICARAGUA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,COLOMBIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,EL SALVADOR,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,NICARAGUA,Title 8,57
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,OTHER,Title 8,11
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,UKRAINE,Title 8,67
-2024 (FYTD),FYTD,OCT,Other,VA,FMUA,VENEZUELA,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,BRAZIL,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,CANADA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,41
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,COLOMBIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,EL SALVADOR,Title 8,8
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,GUATEMALA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,HONDURAS,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,INDIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,MEXICO,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,MYANMAR (BURMA),Title 8,2
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,NICARAGUA,Title 8,136
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,OTHER,Title 8,39
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,PERU,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,PHILIPPINES,Title 8,57
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,UKRAINE,Title 8,80
-2024 (FYTD),FYTD,OCT,Other,VA,Single Adults,VENEZUELA,Title 8,14
-2024 (FYTD),FYTD,OCT,Other,VI,FMUA,ECUADOR,Title 8,9
-2024 (FYTD),FYTD,OCT,Other,VI,FMUA,INDIA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,VI,FMUA,OTHER,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VI,FMUA,ROMANIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,VI,FMUA,VENEZUELA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,COLOMBIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,ECUADOR,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,EL SALVADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,HAITI,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,HONDURAS,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,INDIA,Title 8,27
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,MEXICO,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,MYANMAR (BURMA),Title 8,8
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,NICARAGUA,Title 8,6
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,OTHER,Title 8,28
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,PERU,Title 8,4
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,PHILIPPINES,Title 8,26
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,ROMANIA,Title 8,7
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,RUSSIA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,TURKEY,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,VI,Single Adults,VENEZUELA,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,WA,FMUA,INDIA,Title 8,2
-2024 (FYTD),FYTD,OCT,Other,WA,FMUA,OTHER,Title 8,10
-2024 (FYTD),FYTD,OCT,Other,WA,FMUA,RUSSIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,WA,FMUA,UKRAINE,Title 8,292
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,BRAZIL,Title 8,25
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,CANADA,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,27
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,HAITI,Title 8,3
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,INDIA,Title 8,51
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,MEXICO,Title 8,5
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,MYANMAR (BURMA),Title 8,27
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,OTHER,Title 8,43
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,PHILIPPINES,Title 8,90
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,RUSSIA,Title 8,21
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,UKRAINE,Title 8,226
-2024 (FYTD),FYTD,OCT,Other,WA,Single Adults,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Other,WA,UC / Single Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Accompanied Minors,COLOMBIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Accompanied Minors,CUBA,Title 8,3
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Accompanied Minors,MEXICO,Title 8,9
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,BRAZIL,Title 8,148
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,COLOMBIA,Title 8,798
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,CUBA,Title 8,374
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,ECUADOR,Title 8,3326
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,EL SALVADOR,Title 8,335
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,GUATEMALA,Title 8,7424
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,HAITI,Title 8,84
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,HONDURAS,Title 8,438
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,INDIA,Title 8,927
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,MEXICO,Title 8,17802
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,NICARAGUA,Title 8,30
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,OTHER,Title 8,491
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,PERU,Title 8,759
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,RUSSIA,Title 8,36
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,UKRAINE,Title 8,2
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,FMUA,VENEZUELA,Title 8,285
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,BRAZIL,Title 8,94
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,8
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,COLOMBIA,Title 8,1149
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,CUBA,Title 8,779
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,ECUADOR,Title 8,3690
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,EL SALVADOR,Title 8,99
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,GUATEMALA,Title 8,1454
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,HAITI,Title 8,254
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,HONDURAS,Title 8,167
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,INDIA,Title 8,2170
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,MEXICO,Title 8,9046
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,NICARAGUA,Title 8,230
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,OTHER,Title 8,7574
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,PERU,Title 8,1095
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,RUSSIA,Title 8,15
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,UKRAINE,Title 8,2
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,Single Adults,VENEZUELA,Title 8,804
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,COLOMBIA,Title 8,15
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,CUBA,Title 8,16
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,ECUADOR,Title 8,164
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,EL SALVADOR,Title 8,44
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,GUATEMALA,Title 8,1537
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,HAITI,Title 8,18
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,HONDURAS,Title 8,68
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,INDIA,Title 8,53
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,MEXICO,Title 8,1222
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,NICARAGUA,Title 8,13
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,OTHER,Title 8,141
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,PERU,Title 8,25
-2024 (FYTD),FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,VENEZUELA,Title 8,13
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,CUBA,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,HONDURAS,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,MEXICO,Title 8,25
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,VENEZUELA,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,BRAZIL,Title 8,585
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,524
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,COLOMBIA,Title 8,2134
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,CUBA,Title 8,1428
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,ECUADOR,Title 8,526
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,EL SALVADOR,Title 8,236
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,GUATEMALA,Title 8,579
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,HAITI,Title 8,195
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,HONDURAS,Title 8,602
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,INDIA,Title 8,130
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,MEXICO,Title 8,3142
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,NICARAGUA,Title 8,37
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,OTHER,Title 8,1608
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,PERU,Title 8,467
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,ROMANIA,Title 8,40
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,RUSSIA,Title 8,903
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,TURKEY,Title 8,195
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,UKRAINE,Title 8,4
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,FMUA,VENEZUELA,Title 8,627
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,BRAZIL,Title 8,1246
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,CANADA,Title 8,3
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,3694
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,COLOMBIA,Title 8,4056
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,CUBA,Title 8,3168
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,ECUADOR,Title 8,800
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,EL SALVADOR,Title 8,241
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,GUATEMALA,Title 8,358
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,HAITI,Title 8,417
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,HONDURAS,Title 8,439
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,INDIA,Title 8,833
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,MEXICO,Title 8,5511
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,MYANMAR (BURMA),Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,NICARAGUA,Title 8,133
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,OTHER,Title 8,8053
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,PERU,Title 8,711
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,ROMANIA,Title 8,45
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,RUSSIA,Title 8,655
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,TURKEY,Title 8,1069
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,UKRAINE,Title 8,12
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,Single Adults,VENEZUELA,Title 8,1720
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,BRAZIL,Title 8,7
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,3
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,COLOMBIA,Title 8,69
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,CUBA,Title 8,40
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,ECUADOR,Title 8,65
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,EL SALVADOR,Title 8,6
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,GUATEMALA,Title 8,71
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,HAITI,Title 8,34
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,HONDURAS,Title 8,31
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,INDIA,Title 8,20
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,MEXICO,Title 8,271
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,NICARAGUA,Title 8,7
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,OTHER,Title 8,182
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,PERU,Title 8,10
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,ROMANIA,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,RUSSIA,Title 8,4
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,TURKEY,Title 8,14
-2024 (FYTD),FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,VENEZUELA,Title 8,21
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Accompanied Minors,MEXICO,Title 8,2
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,COLOMBIA,Title 8,16
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,ECUADOR,Title 8,46
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,EL SALVADOR,Title 8,117
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,GUATEMALA,Title 8,281
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,HONDURAS,Title 8,92
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,MEXICO,Title 8,358
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,OTHER,Title 8,11
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,PERU,Title 8,5
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,FMUA,VENEZUELA,Title 8,4
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,BRAZIL,Title 8,10
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,COLOMBIA,Title 8,56
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,CUBA,Title 8,7
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,ECUADOR,Title 8,234
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,EL SALVADOR,Title 8,172
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,GUATEMALA,Title 8,1044
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,HONDURAS,Title 8,260
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,MEXICO,Title 8,4873
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,NICARAGUA,Title 8,12
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,OTHER,Title 8,36
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,PERU,Title 8,7
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,Single Adults,VENEZUELA,Title 8,40
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,ECUADOR,Title 8,12
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,EL SALVADOR,Title 8,30
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,GUATEMALA,Title 8,99
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,HONDURAS,Title 8,25
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,MEXICO,Title 8,267
-2024 (FYTD),FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,NICARAGUA,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,CUBA,Title 8,5
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,ECUADOR,Title 8,3
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,HONDURAS,Title 8,2
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,MEXICO,Title 8,68
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,BRAZIL,Title 8,359
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,CANADA,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,13
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,COLOMBIA,Title 8,2881
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,CUBA,Title 8,1894
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,ECUADOR,Title 8,1686
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,EL SALVADOR,Title 8,4215
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,GUATEMALA,Title 8,6912
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,HAITI,Title 8,1104
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,HONDURAS,Title 8,12332
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,MEXICO,Title 8,8347
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,NICARAGUA,Title 8,355
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,OTHER,Title 8,692
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,PERU,Title 8,685
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,PHILIPPINES,Title 8,2
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,RUSSIA,Title 8,239
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,FMUA,VENEZUELA,Title 8,16421
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,BRAZIL,Title 8,21
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,CANADA,Title 8,3
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,19
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,COLOMBIA,Title 8,2528
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,CUBA,Title 8,4718
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,ECUADOR,Title 8,1519
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,EL SALVADOR,Title 8,976
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,GUATEMALA,Title 8,1994
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,HAITI,Title 8,2479
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,HONDURAS,Title 8,5210
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,INDIA,Title 8,13
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,MEXICO,Title 8,11100
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,MYANMAR (BURMA),Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,NICARAGUA,Title 8,2358
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,OTHER,Title 8,578
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,PERU,Title 8,360
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,ROMANIA,Title 8,8
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,RUSSIA,Title 8,134
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,TURKEY,Title 8,4
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,UKRAINE,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,Single Adults,VENEZUELA,Title 8,20485
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,BRAZIL,Title 8,3
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,COLOMBIA,Title 8,70
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,CUBA,Title 8,62
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,ECUADOR,Title 8,83
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,EL SALVADOR,Title 8,779
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,GUATEMALA,Title 8,2092
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,HAITI,Title 8,98
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,HONDURAS,Title 8,2152
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,MEXICO,Title 8,960
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,NICARAGUA,Title 8,130
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,OTHER,Title 8,18
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,PERU,Title 8,8
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,RUSSIA,Title 8,5
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,TURKEY,Title 8,1
-2024 (FYTD),FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,VENEZUELA,Title 8,442
+2024,FYTD,OCT,Northern Land Border,AK,FMUA,COLOMBIA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,AK,FMUA,MEXICO,Title 8,4
+2024,FYTD,OCT,Northern Land Border,AK,FMUA,OTHER,Title 8,2
+2024,FYTD,OCT,Northern Land Border,AK,FMUA,PHILIPPINES,Title 8,7
+2024,FYTD,OCT,Northern Land Border,AK,Single Adults,CANADA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,AK,Single Adults,INDIA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,AK,Single Adults,MEXICO,Title 8,1
+2024,FYTD,OCT,Northern Land Border,AK,Single Adults,OTHER,Title 8,12
+2024,FYTD,OCT,Northern Land Border,AK,Single Adults,PHILIPPINES,Title 8,10
+2024,FYTD,OCT,Northern Land Border,ID,Single Adults,CANADA,Title 8,6
+2024,FYTD,OCT,Northern Land Border,ID,Single Adults,HAITI,Title 8,1
+2024,FYTD,OCT,Northern Land Border,ID,Single Adults,MEXICO,Title 8,2
+2024,FYTD,OCT,Northern Land Border,ME,Accompanied Minors,OTHER,Title 8,5
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,BRAZIL,Title 8,30
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,CANADA,Title 8,27
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,20
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,COLOMBIA,Title 8,37
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,ECUADOR,Title 8,3
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,HAITI,Title 8,3
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,INDIA,Title 8,37
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,MEXICO,Title 8,42
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,OTHER,Title 8,204
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,PHILIPPINES,Title 8,31
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,ROMANIA,Title 8,10
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,RUSSIA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,TURKEY,Title 8,5
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,UKRAINE,Title 8,10
+2024,FYTD,OCT,Northern Land Border,ME,FMUA,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,BRAZIL,Title 8,14
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,CANADA,Title 8,126
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,32
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,COLOMBIA,Title 8,42
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,ECUADOR,Title 8,8
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,EL SALVADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,GUATEMALA,Title 8,5
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,HAITI,Title 8,4
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,HONDURAS,Title 8,6
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,INDIA,Title 8,101
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,MEXICO,Title 8,60
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,NICARAGUA,Title 8,15
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,OTHER,Title 8,558
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,PERU,Title 8,7
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,PHILIPPINES,Title 8,147
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,ROMANIA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,RUSSIA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,ME,Single Adults,UKRAINE,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MI,Accompanied Minors,CANADA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MI,Accompanied Minors,OTHER,Title 8,5
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,CANADA,Title 8,24
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,9
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,INDIA,Title 8,17
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,MEXICO,Title 8,5
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,OTHER,Title 8,88
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,PHILIPPINES,Title 8,5
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,RUSSIA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,UKRAINE,Title 8,11
+2024,FYTD,OCT,Northern Land Border,MI,FMUA,VENEZUELA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,BRAZIL,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,CANADA,Title 8,330
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,52
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,COLOMBIA,Title 8,10
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,CUBA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,ECUADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,EL SALVADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,GUATEMALA,Title 8,23
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,HONDURAS,Title 8,9
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,INDIA,Title 8,159
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,MEXICO,Title 8,50
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,NICARAGUA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,OTHER,Title 8,322
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,PERU,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,PHILIPPINES,Title 8,54
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,ROMANIA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,TURKEY,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,UKRAINE,Title 8,22
+2024,FYTD,OCT,Northern Land Border,MI,Single Adults,VENEZUELA,Title 8,7
+2024,FYTD,OCT,Northern Land Border,MI,UC / Single Minors,CANADA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MI,UC / Single Minors,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MI,UC / Single Minors,MEXICO,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MN,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,3
+2024,FYTD,OCT,Northern Land Border,MN,FMUA,OTHER,Title 8,9
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,CANADA,Title 8,19
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,9
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,COLOMBIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,HAITI,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,INDIA,Title 8,30
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,MEXICO,Title 8,11
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,NICARAGUA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,OTHER,Title 8,16
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,PHILIPPINES,Title 8,5
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,TURKEY,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MN,Single Adults,UKRAINE,Title 8,3
+2024,FYTD,OCT,Northern Land Border,MN,UC / Single Minors,MEXICO,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MN,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MT,Accompanied Minors,ECUADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,CANADA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,27
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,INDIA,Title 8,63
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,MEXICO,Title 8,9
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,OTHER,Title 8,90
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,PHILIPPINES,Title 8,20
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,ROMANIA,Title 8,10
+2024,FYTD,OCT,Northern Land Border,MT,FMUA,UKRAINE,Title 8,12
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,BRAZIL,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,CANADA,Title 8,131
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,33
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,COLOMBIA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,ECUADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,EL SALVADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,INDIA,Title 8,222
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,MEXICO,Title 8,27
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,OTHER,Title 8,168
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,PHILIPPINES,Title 8,52
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,ROMANIA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,UKRAINE,Title 8,4
+2024,FYTD,OCT,Northern Land Border,MT,Single Adults,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,MT,UC / Single Minors,UKRAINE,Title 8,1
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,14
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,ECUADOR,Title 8,4
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,INDIA,Title 8,12
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,MEXICO,Title 8,7
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,OTHER,Title 8,67
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,PHILIPPINES,Title 8,8
+2024,FYTD,OCT,Northern Land Border,ND,FMUA,UKRAINE,Title 8,13
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,CANADA,Title 8,98
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,40
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,INDIA,Title 8,45
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,MEXICO,Title 8,11
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,OTHER,Title 8,119
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,PHILIPPINES,Title 8,25
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,ROMANIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,ND,Single Adults,UKRAINE,Title 8,4
+2024,FYTD,OCT,Northern Land Border,ND,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,Accompanied Minors,CANADA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,Accompanied Minors,COLOMBIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,Accompanied Minors,OTHER,Title 8,9
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,BRAZIL,Title 8,26
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,CANADA,Title 8,52
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,52
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,COLOMBIA,Title 8,23
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,ECUADOR,Title 8,2
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,EL SALVADOR,Title 8,9
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,GUATEMALA,Title 8,6
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,HAITI,Title 8,11
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,INDIA,Title 8,278
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,MEXICO,Title 8,111
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,OTHER,Title 8,555
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,PERU,Title 8,8
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,PHILIPPINES,Title 8,51
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,ROMANIA,Title 8,12
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,RUSSIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,TURKEY,Title 8,5
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,UKRAINE,Title 8,8
+2024,FYTD,OCT,Northern Land Border,NY,FMUA,VENEZUELA,Title 8,14
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,BRAZIL,Title 8,41
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,CANADA,Title 8,1048
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,243
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,COLOMBIA,Title 8,33
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,CUBA,Title 8,22
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,ECUADOR,Title 8,21
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,EL SALVADOR,Title 8,8
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,GUATEMALA,Title 8,38
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,HAITI,Title 8,28
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,HONDURAS,Title 8,21
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,INDIA,Title 8,829
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,MEXICO,Title 8,516
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,MYANMAR (BURMA),Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,NICARAGUA,Title 8,17
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,OTHER,Title 8,1748
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,PERU,Title 8,6
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,PHILIPPINES,Title 8,114
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,ROMANIA,Title 8,11
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,RUSSIA,Title 8,12
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,TURKEY,Title 8,16
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,UKRAINE,Title 8,44
+2024,FYTD,OCT,Northern Land Border,NY,Single Adults,VENEZUELA,Title 8,31
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,CANADA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,HONDURAS,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,MEXICO,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,OTHER,Title 8,5
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,RUSSIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,NY,UC / Single Minors,UKRAINE,Title 8,2
+2024,FYTD,OCT,Northern Land Border,OH,Single Adults,ECUADOR,Title 8,1
+2024,FYTD,OCT,Northern Land Border,OH,Single Adults,GUATEMALA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,OH,Single Adults,MEXICO,Title 8,2
+2024,FYTD,OCT,Northern Land Border,VT,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
+2024,FYTD,OCT,Northern Land Border,VT,Accompanied Minors,OTHER,Title 8,4
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,BRAZIL,Title 8,21
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,CANADA,Title 8,26
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,5
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,COLOMBIA,Title 8,23
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,HAITI,Title 8,19
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,INDIA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,MEXICO,Title 8,56
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,OTHER,Title 8,272
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,PERU,Title 8,8
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,PHILIPPINES,Title 8,3
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,ROMANIA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,VT,FMUA,VENEZUELA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,BRAZIL,Title 8,27
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,CANADA,Title 8,124
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,22
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,COLOMBIA,Title 8,29
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,CUBA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,ECUADOR,Title 8,7
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,GUATEMALA,Title 8,17
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,HAITI,Title 8,10
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,HONDURAS,Title 8,3
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,INDIA,Title 8,28
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,MEXICO,Title 8,178
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,NICARAGUA,Title 8,3
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,OTHER,Title 8,898
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,PERU,Title 8,5
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,PHILIPPINES,Title 8,28
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,ROMANIA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,UKRAINE,Title 8,1
+2024,FYTD,OCT,Northern Land Border,VT,Single Adults,VENEZUELA,Title 8,6
+2024,FYTD,OCT,Northern Land Border,VT,UC / Single Minors,MEXICO,Title 8,3
+2024,FYTD,OCT,Northern Land Border,WA,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,5
+2024,FYTD,OCT,Northern Land Border,WA,Accompanied Minors,INDIA,Title 8,1
+2024,FYTD,OCT,Northern Land Border,WA,Accompanied Minors,OTHER,Title 8,10
+2024,FYTD,OCT,Northern Land Border,WA,Accompanied Minors,PHILIPPINES,Title 8,2
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,CANADA,Title 8,7
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,75
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,COLOMBIA,Title 8,10
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,HAITI,Title 8,6
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,HONDURAS,Title 8,3
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,INDIA,Title 8,94
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,MEXICO,Title 8,30
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,OTHER,Title 8,256
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,PHILIPPINES,Title 8,22
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,ROMANIA,Title 8,6
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,TURKEY,Title 8,3
+2024,FYTD,OCT,Northern Land Border,WA,FMUA,UKRAINE,Title 8,17
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,BRAZIL,Title 8,15
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,CANADA,Title 8,435
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,306
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,COLOMBIA,Title 8,13
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,ECUADOR,Title 8,9
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,EL SALVADOR,Title 8,3
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,GUATEMALA,Title 8,6
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,HAITI,Title 8,2
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,INDIA,Title 8,687
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,MEXICO,Title 8,168
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,MYANMAR (BURMA),Title 8,1
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,NICARAGUA,Title 8,2
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,OTHER,Title 8,757
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,PERU,Title 8,4
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,PHILIPPINES,Title 8,89
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,ROMANIA,Title 8,14
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,RUSSIA,Title 8,5
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,TURKEY,Title 8,2
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,UKRAINE,Title 8,22
+2024,FYTD,OCT,Northern Land Border,WA,Single Adults,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,WA,UC / Single Minors,INDIA,Title 8,4
+2024,FYTD,OCT,Northern Land Border,WA,UC / Single Minors,MEXICO,Title 8,2
+2024,FYTD,OCT,Northern Land Border,WA,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Northern Land Border,WA,UC / Single Minors,ROMANIA,Title 8,1
+2024,FYTD,OCT,Other,AK,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
+2024,FYTD,OCT,Other,AK,Single Adults,INDIA,Title 8,10
+2024,FYTD,OCT,Other,AK,Single Adults,MYANMAR (BURMA),Title 8,8
+2024,FYTD,OCT,Other,AK,Single Adults,OTHER,Title 8,21
+2024,FYTD,OCT,Other,AK,Single Adults,PHILIPPINES,Title 8,5
+2024,FYTD,OCT,Other,AK,Single Adults,UKRAINE,Title 8,3
+2024,FYTD,OCT,Other,AL,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
+2024,FYTD,OCT,Other,AL,Single Adults,EL SALVADOR,Title 8,1
+2024,FYTD,OCT,Other,AL,Single Adults,HONDURAS,Title 8,2
+2024,FYTD,OCT,Other,AL,Single Adults,INDIA,Title 8,3
+2024,FYTD,OCT,Other,AL,Single Adults,MEXICO,Title 8,3
+2024,FYTD,OCT,Other,AL,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,AL,Single Adults,PHILIPPINES,Title 8,5
+2024,FYTD,OCT,Other,AL,Single Adults,RUSSIA,Title 8,12
+2024,FYTD,OCT,Other,AL,Single Adults,UKRAINE,Title 8,1
+2024,FYTD,OCT,Other,AZ,FMUA,CUBA,Title 8,2
+2024,FYTD,OCT,Other,AZ,FMUA,OTHER,Title 8,2
+2024,FYTD,OCT,Other,AZ,FMUA,UKRAINE,Title 8,1
+2024,FYTD,OCT,Other,AZ,Single Adults,CUBA,Title 8,8
+2024,FYTD,OCT,Other,AZ,Single Adults,MEXICO,Title 8,4
+2024,FYTD,OCT,Other,AZ,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,CA,Accompanied Minors,NICARAGUA,Title 8,6
+2024,FYTD,OCT,Other,CA,Accompanied Minors,OTHER,Title 8,4
+2024,FYTD,OCT,Other,CA,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,8
+2024,FYTD,OCT,Other,CA,FMUA,COLOMBIA,Title 8,4
+2024,FYTD,OCT,Other,CA,FMUA,EL SALVADOR,Title 8,2
+2024,FYTD,OCT,Other,CA,FMUA,GUATEMALA,Title 8,5
+2024,FYTD,OCT,Other,CA,FMUA,MEXICO,Title 8,3
+2024,FYTD,OCT,Other,CA,FMUA,NICARAGUA,Title 8,262
+2024,FYTD,OCT,Other,CA,FMUA,OTHER,Title 8,6
+2024,FYTD,OCT,Other,CA,FMUA,PERU,Title 8,1
+2024,FYTD,OCT,Other,CA,FMUA,UKRAINE,Title 8,274
+2024,FYTD,OCT,Other,CA,FMUA,VENEZUELA,Title 8,32
+2024,FYTD,OCT,Other,CA,Single Adults,BRAZIL,Title 8,10
+2024,FYTD,OCT,Other,CA,Single Adults,CANADA,Title 8,8
+2024,FYTD,OCT,Other,CA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,309
+2024,FYTD,OCT,Other,CA,Single Adults,COLOMBIA,Title 8,17
+2024,FYTD,OCT,Other,CA,Single Adults,CUBA,Title 8,7
+2024,FYTD,OCT,Other,CA,Single Adults,ECUADOR,Title 8,1
+2024,FYTD,OCT,Other,CA,Single Adults,EL SALVADOR,Title 8,18
+2024,FYTD,OCT,Other,CA,Single Adults,GUATEMALA,Title 8,10
+2024,FYTD,OCT,Other,CA,Single Adults,HAITI,Title 8,3
+2024,FYTD,OCT,Other,CA,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,CA,Single Adults,INDIA,Title 8,222
+2024,FYTD,OCT,Other,CA,Single Adults,MEXICO,Title 8,118
+2024,FYTD,OCT,Other,CA,Single Adults,MYANMAR (BURMA),Title 8,71
+2024,FYTD,OCT,Other,CA,Single Adults,NICARAGUA,Title 8,586
+2024,FYTD,OCT,Other,CA,Single Adults,OTHER,Title 8,440
+2024,FYTD,OCT,Other,CA,Single Adults,PERU,Title 8,5
+2024,FYTD,OCT,Other,CA,Single Adults,PHILIPPINES,Title 8,568
+2024,FYTD,OCT,Other,CA,Single Adults,ROMANIA,Title 8,5
+2024,FYTD,OCT,Other,CA,Single Adults,RUSSIA,Title 8,76
+2024,FYTD,OCT,Other,CA,Single Adults,TURKEY,Title 8,27
+2024,FYTD,OCT,Other,CA,Single Adults,UKRAINE,Title 8,421
+2024,FYTD,OCT,Other,CA,Single Adults,VENEZUELA,Title 8,43
+2024,FYTD,OCT,Other,CO,FMUA,CUBA,Title 8,5
+2024,FYTD,OCT,Other,CO,FMUA,OTHER,Title 8,1
+2024,FYTD,OCT,Other,CO,FMUA,UKRAINE,Title 8,38
+2024,FYTD,OCT,Other,CO,FMUA,VENEZUELA,Title 8,10
+2024,FYTD,OCT,Other,CO,Single Adults,CUBA,Title 8,6
+2024,FYTD,OCT,Other,CO,Single Adults,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Other,CO,Single Adults,MEXICO,Title 8,9
+2024,FYTD,OCT,Other,CO,Single Adults,NICARAGUA,Title 8,1
+2024,FYTD,OCT,Other,CO,Single Adults,OTHER,Title 8,3
+2024,FYTD,OCT,Other,CO,Single Adults,UKRAINE,Title 8,39
+2024,FYTD,OCT,Other,CO,Single Adults,VENEZUELA,Title 8,16
+2024,FYTD,OCT,Other,CT,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
+2024,FYTD,OCT,Other,CT,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,CT,Single Adults,PHILIPPINES,Title 8,7
+2024,FYTD,OCT,Other,CT,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,CT,Single Adults,UKRAINE,Title 8,3
+2024,FYTD,OCT,Other,DC,Accompanied Minors,HAITI,Title 8,5
+2024,FYTD,OCT,Other,DC,Accompanied Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Other,DC,FMUA,CANADA,Title 8,13
+2024,FYTD,OCT,Other,DC,FMUA,HAITI,Title 8,7
+2024,FYTD,OCT,Other,DC,FMUA,OTHER,Title 8,14
+2024,FYTD,OCT,Other,DC,FMUA,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,DC,FMUA,UKRAINE,Title 8,92
+2024,FYTD,OCT,Other,DC,Single Adults,BRAZIL,Title 8,2
+2024,FYTD,OCT,Other,DC,Single Adults,CANADA,Title 8,625
+2024,FYTD,OCT,Other,DC,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,15
+2024,FYTD,OCT,Other,DC,Single Adults,COLOMBIA,Title 8,3
+2024,FYTD,OCT,Other,DC,Single Adults,HAITI,Title 8,99
+2024,FYTD,OCT,Other,DC,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,DC,Single Adults,INDIA,Title 8,15
+2024,FYTD,OCT,Other,DC,Single Adults,MEXICO,Title 8,5
+2024,FYTD,OCT,Other,DC,Single Adults,NICARAGUA,Title 8,2
+2024,FYTD,OCT,Other,DC,Single Adults,OTHER,Title 8,156
+2024,FYTD,OCT,Other,DC,Single Adults,PHILIPPINES,Title 8,6
+2024,FYTD,OCT,Other,DC,Single Adults,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,DC,Single Adults,UKRAINE,Title 8,158
+2024,FYTD,OCT,Other,DC,Single Adults,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Other,DC,UC / Single Minors,CANADA,Title 8,1
+2024,FYTD,OCT,Other,DC,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Other,DE,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,8
+2024,FYTD,OCT,Other,DE,Single Adults,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Other,DE,Single Adults,INDIA,Title 8,20
+2024,FYTD,OCT,Other,DE,Single Adults,MYANMAR (BURMA),Title 8,1
+2024,FYTD,OCT,Other,DE,Single Adults,OTHER,Title 8,22
+2024,FYTD,OCT,Other,DE,Single Adults,PHILIPPINES,Title 8,76
+2024,FYTD,OCT,Other,DE,Single Adults,RUSSIA,Title 8,2
+2024,FYTD,OCT,Other,DE,Single Adults,UKRAINE,Title 8,15
+2024,FYTD,OCT,Other,FL,Accompanied Minors,CUBA,Title 8,49
+2024,FYTD,OCT,Other,FL,Accompanied Minors,HAITI,Title 8,217
+2024,FYTD,OCT,Other,FL,Accompanied Minors,NICARAGUA,Title 8,22
+2024,FYTD,OCT,Other,FL,Accompanied Minors,VENEZUELA,Title 8,8
+2024,FYTD,OCT,Other,FL,FMUA,BRAZIL,Title 8,4
+2024,FYTD,OCT,Other,FL,FMUA,COLOMBIA,Title 8,34
+2024,FYTD,OCT,Other,FL,FMUA,CUBA,Title 8,2028
+2024,FYTD,OCT,Other,FL,FMUA,ECUADOR,Title 8,2
+2024,FYTD,OCT,Other,FL,FMUA,EL SALVADOR,Title 8,5
+2024,FYTD,OCT,Other,FL,FMUA,HAITI,Title 8,3171
+2024,FYTD,OCT,Other,FL,FMUA,HONDURAS,Title 8,7
+2024,FYTD,OCT,Other,FL,FMUA,MEXICO,Title 8,2
+2024,FYTD,OCT,Other,FL,FMUA,NICARAGUA,Title 8,1137
+2024,FYTD,OCT,Other,FL,FMUA,OTHER,Title 8,48
+2024,FYTD,OCT,Other,FL,FMUA,PERU,Title 8,3
+2024,FYTD,OCT,Other,FL,FMUA,RUSSIA,Title 8,8
+2024,FYTD,OCT,Other,FL,FMUA,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,FL,FMUA,UKRAINE,Title 8,181
+2024,FYTD,OCT,Other,FL,FMUA,VENEZUELA,Title 8,1903
+2024,FYTD,OCT,Other,FL,Single Adults,BRAZIL,Title 8,43
+2024,FYTD,OCT,Other,FL,Single Adults,CANADA,Title 8,7
+2024,FYTD,OCT,Other,FL,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,53
+2024,FYTD,OCT,Other,FL,Single Adults,COLOMBIA,Title 8,108
+2024,FYTD,OCT,Other,FL,Single Adults,CUBA,Title 8,2919
+2024,FYTD,OCT,Other,FL,Single Adults,ECUADOR,Title 8,22
+2024,FYTD,OCT,Other,FL,Single Adults,EL SALVADOR,Title 8,9
+2024,FYTD,OCT,Other,FL,Single Adults,GUATEMALA,Title 8,10
+2024,FYTD,OCT,Other,FL,Single Adults,HAITI,Title 8,8631
+2024,FYTD,OCT,Other,FL,Single Adults,HONDURAS,Title 8,30
+2024,FYTD,OCT,Other,FL,Single Adults,INDIA,Title 8,247
+2024,FYTD,OCT,Other,FL,Single Adults,MEXICO,Title 8,29
+2024,FYTD,OCT,Other,FL,Single Adults,MYANMAR (BURMA),Title 8,4
+2024,FYTD,OCT,Other,FL,Single Adults,NICARAGUA,Title 8,2447
+2024,FYTD,OCT,Other,FL,Single Adults,OTHER,Title 8,792
+2024,FYTD,OCT,Other,FL,Single Adults,PERU,Title 8,20
+2024,FYTD,OCT,Other,FL,Single Adults,PHILIPPINES,Title 8,300
+2024,FYTD,OCT,Other,FL,Single Adults,ROMANIA,Title 8,5
+2024,FYTD,OCT,Other,FL,Single Adults,RUSSIA,Title 8,116
+2024,FYTD,OCT,Other,FL,Single Adults,TURKEY,Title 8,6
+2024,FYTD,OCT,Other,FL,Single Adults,UKRAINE,Title 8,386
+2024,FYTD,OCT,Other,FL,Single Adults,VENEZUELA,Title 8,2128
+2024,FYTD,OCT,Other,FL,UC / Single Minors,CUBA,Title 8,3
+2024,FYTD,OCT,Other,FL,UC / Single Minors,HAITI,Title 8,1
+2024,FYTD,OCT,Other,FL,UC / Single Minors,UKRAINE,Title 8,3
+2024,FYTD,OCT,Other,FL,UC / Single Minors,VENEZUELA,Title 8,2
+2024,FYTD,OCT,Other,GA,Accompanied Minors,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Other,GA,FMUA,CUBA,Title 8,6
+2024,FYTD,OCT,Other,GA,FMUA,GUATEMALA,Title 8,5
+2024,FYTD,OCT,Other,GA,FMUA,HAITI,Title 8,4
+2024,FYTD,OCT,Other,GA,FMUA,NICARAGUA,Title 8,3
+2024,FYTD,OCT,Other,GA,FMUA,OTHER,Title 8,7
+2024,FYTD,OCT,Other,GA,FMUA,UKRAINE,Title 8,44
+2024,FYTD,OCT,Other,GA,FMUA,VENEZUELA,Title 8,53
+2024,FYTD,OCT,Other,GA,Single Adults,BRAZIL,Title 8,5
+2024,FYTD,OCT,Other,GA,Single Adults,CANADA,Title 8,3
+2024,FYTD,OCT,Other,GA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,18
+2024,FYTD,OCT,Other,GA,Single Adults,COLOMBIA,Title 8,8
+2024,FYTD,OCT,Other,GA,Single Adults,CUBA,Title 8,39
+2024,FYTD,OCT,Other,GA,Single Adults,ECUADOR,Title 8,4
+2024,FYTD,OCT,Other,GA,Single Adults,EL SALVADOR,Title 8,1
+2024,FYTD,OCT,Other,GA,Single Adults,GUATEMALA,Title 8,9
+2024,FYTD,OCT,Other,GA,Single Adults,HAITI,Title 8,39
+2024,FYTD,OCT,Other,GA,Single Adults,HONDURAS,Title 8,3
+2024,FYTD,OCT,Other,GA,Single Adults,INDIA,Title 8,35
+2024,FYTD,OCT,Other,GA,Single Adults,MEXICO,Title 8,21
+2024,FYTD,OCT,Other,GA,Single Adults,MYANMAR (BURMA),Title 8,10
+2024,FYTD,OCT,Other,GA,Single Adults,NICARAGUA,Title 8,8
+2024,FYTD,OCT,Other,GA,Single Adults,OTHER,Title 8,68
+2024,FYTD,OCT,Other,GA,Single Adults,PERU,Title 8,2
+2024,FYTD,OCT,Other,GA,Single Adults,PHILIPPINES,Title 8,43
+2024,FYTD,OCT,Other,GA,Single Adults,ROMANIA,Title 8,1
+2024,FYTD,OCT,Other,GA,Single Adults,RUSSIA,Title 8,2
+2024,FYTD,OCT,Other,GA,Single Adults,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,GA,Single Adults,UKRAINE,Title 8,78
+2024,FYTD,OCT,Other,GA,Single Adults,VENEZUELA,Title 8,71
+2024,FYTD,OCT,Other,GA,UC / Single Minors,INDIA,Title 8,1
+2024,FYTD,OCT,Other,GU,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,28
+2024,FYTD,OCT,Other,GU,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,GU,Single Adults,INDIA,Title 8,16
+2024,FYTD,OCT,Other,GU,Single Adults,MYANMAR (BURMA),Title 8,33
+2024,FYTD,OCT,Other,GU,Single Adults,OTHER,Title 8,24
+2024,FYTD,OCT,Other,GU,Single Adults,PHILIPPINES,Title 8,21
+2024,FYTD,OCT,Other,GU,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,GU,Single Adults,UKRAINE,Title 8,2
+2024,FYTD,OCT,Other,HI,FMUA,OTHER,Title 8,30
+2024,FYTD,OCT,Other,HI,Single Adults,CANADA,Title 8,1
+2024,FYTD,OCT,Other,HI,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,31
+2024,FYTD,OCT,Other,HI,Single Adults,INDIA,Title 8,18
+2024,FYTD,OCT,Other,HI,Single Adults,MYANMAR (BURMA),Title 8,1
+2024,FYTD,OCT,Other,HI,Single Adults,NICARAGUA,Title 8,1
+2024,FYTD,OCT,Other,HI,Single Adults,OTHER,Title 8,144
+2024,FYTD,OCT,Other,HI,Single Adults,PHILIPPINES,Title 8,82
+2024,FYTD,OCT,Other,HI,Single Adults,RUSSIA,Title 8,3
+2024,FYTD,OCT,Other,HI,Single Adults,UKRAINE,Title 8,3
+2024,FYTD,OCT,Other,HI,UC / Single Minors,OTHER,Title 8,17
+2024,FYTD,OCT,Other,IL,FMUA,COLOMBIA,Title 8,7
+2024,FYTD,OCT,Other,IL,FMUA,ECUADOR,Title 8,2
+2024,FYTD,OCT,Other,IL,FMUA,INDIA,Title 8,3
+2024,FYTD,OCT,Other,IL,FMUA,MEXICO,Title 8,2
+2024,FYTD,OCT,Other,IL,FMUA,NICARAGUA,Title 8,7
+2024,FYTD,OCT,Other,IL,FMUA,OTHER,Title 8,8
+2024,FYTD,OCT,Other,IL,FMUA,PERU,Title 8,3
+2024,FYTD,OCT,Other,IL,FMUA,ROMANIA,Title 8,3
+2024,FYTD,OCT,Other,IL,FMUA,RUSSIA,Title 8,2
+2024,FYTD,OCT,Other,IL,FMUA,UKRAINE,Title 8,651
+2024,FYTD,OCT,Other,IL,FMUA,VENEZUELA,Title 8,21
+2024,FYTD,OCT,Other,IL,Single Adults,BRAZIL,Title 8,11
+2024,FYTD,OCT,Other,IL,Single Adults,CANADA,Title 8,1
+2024,FYTD,OCT,Other,IL,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,6
+2024,FYTD,OCT,Other,IL,Single Adults,COLOMBIA,Title 8,8
+2024,FYTD,OCT,Other,IL,Single Adults,CUBA,Title 8,1
+2024,FYTD,OCT,Other,IL,Single Adults,ECUADOR,Title 8,4
+2024,FYTD,OCT,Other,IL,Single Adults,GUATEMALA,Title 8,3
+2024,FYTD,OCT,Other,IL,Single Adults,HAITI,Title 8,7
+2024,FYTD,OCT,Other,IL,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,IL,Single Adults,INDIA,Title 8,14
+2024,FYTD,OCT,Other,IL,Single Adults,MEXICO,Title 8,58
+2024,FYTD,OCT,Other,IL,Single Adults,NICARAGUA,Title 8,5
+2024,FYTD,OCT,Other,IL,Single Adults,OTHER,Title 8,121
+2024,FYTD,OCT,Other,IL,Single Adults,PERU,Title 8,2
+2024,FYTD,OCT,Other,IL,Single Adults,PHILIPPINES,Title 8,2
+2024,FYTD,OCT,Other,IL,Single Adults,RUSSIA,Title 8,2
+2024,FYTD,OCT,Other,IL,Single Adults,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,IL,Single Adults,UKRAINE,Title 8,710
+2024,FYTD,OCT,Other,IL,Single Adults,VENEZUELA,Title 8,38
+2024,FYTD,OCT,Other,IL,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Other,KY,FMUA,UKRAINE,Title 8,8
+2024,FYTD,OCT,Other,KY,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,KY,Single Adults,UKRAINE,Title 8,7
+2024,FYTD,OCT,Other,LA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,70
+2024,FYTD,OCT,Other,LA,Single Adults,COLOMBIA,Title 8,1
+2024,FYTD,OCT,Other,LA,Single Adults,HONDURAS,Title 8,10
+2024,FYTD,OCT,Other,LA,Single Adults,INDIA,Title 8,131
+2024,FYTD,OCT,Other,LA,Single Adults,MEXICO,Title 8,18
+2024,FYTD,OCT,Other,LA,Single Adults,MYANMAR (BURMA),Title 8,72
+2024,FYTD,OCT,Other,LA,Single Adults,OTHER,Title 8,86
+2024,FYTD,OCT,Other,LA,Single Adults,PHILIPPINES,Title 8,370
+2024,FYTD,OCT,Other,LA,Single Adults,ROMANIA,Title 8,6
+2024,FYTD,OCT,Other,LA,Single Adults,RUSSIA,Title 8,45
+2024,FYTD,OCT,Other,LA,Single Adults,TURKEY,Title 8,35
+2024,FYTD,OCT,Other,LA,Single Adults,UKRAINE,Title 8,7
+2024,FYTD,OCT,Other,MA,Accompanied Minors,HAITI,Title 8,5
+2024,FYTD,OCT,Other,MA,FMUA,HAITI,Title 8,10
+2024,FYTD,OCT,Other,MA,FMUA,INDIA,Title 8,2
+2024,FYTD,OCT,Other,MA,FMUA,OTHER,Title 8,8
+2024,FYTD,OCT,Other,MA,FMUA,UKRAINE,Title 8,41
+2024,FYTD,OCT,Other,MA,FMUA,VENEZUELA,Title 8,6
+2024,FYTD,OCT,Other,MA,Single Adults,BRAZIL,Title 8,10
+2024,FYTD,OCT,Other,MA,Single Adults,CANADA,Title 8,1
+2024,FYTD,OCT,Other,MA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,3
+2024,FYTD,OCT,Other,MA,Single Adults,COLOMBIA,Title 8,3
+2024,FYTD,OCT,Other,MA,Single Adults,EL SALVADOR,Title 8,2
+2024,FYTD,OCT,Other,MA,Single Adults,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Other,MA,Single Adults,HAITI,Title 8,43
+2024,FYTD,OCT,Other,MA,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,MA,Single Adults,INDIA,Title 8,1
+2024,FYTD,OCT,Other,MA,Single Adults,NICARAGUA,Title 8,8
+2024,FYTD,OCT,Other,MA,Single Adults,OTHER,Title 8,57
+2024,FYTD,OCT,Other,MA,Single Adults,PERU,Title 8,1
+2024,FYTD,OCT,Other,MA,Single Adults,PHILIPPINES,Title 8,2
+2024,FYTD,OCT,Other,MA,Single Adults,TURKEY,Title 8,4
+2024,FYTD,OCT,Other,MA,Single Adults,UKRAINE,Title 8,74
+2024,FYTD,OCT,Other,MA,Single Adults,VENEZUELA,Title 8,14
+2024,FYTD,OCT,Other,MD,FMUA,UKRAINE,Title 8,3
+2024,FYTD,OCT,Other,MD,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,12
+2024,FYTD,OCT,Other,MD,Single Adults,CUBA,Title 8,1
+2024,FYTD,OCT,Other,MD,Single Adults,INDIA,Title 8,36
+2024,FYTD,OCT,Other,MD,Single Adults,OTHER,Title 8,89
+2024,FYTD,OCT,Other,MD,Single Adults,PHILIPPINES,Title 8,347
+2024,FYTD,OCT,Other,MD,Single Adults,ROMANIA,Title 8,1
+2024,FYTD,OCT,Other,MD,Single Adults,RUSSIA,Title 8,27
+2024,FYTD,OCT,Other,MD,Single Adults,UKRAINE,Title 8,47
+2024,FYTD,OCT,Other,ME,Single Adults,INDIA,Title 8,1
+2024,FYTD,OCT,Other,ME,Single Adults,OTHER,Title 8,6
+2024,FYTD,OCT,Other,ME,Single Adults,PHILIPPINES,Title 8,3
+2024,FYTD,OCT,Other,ME,Single Adults,UKRAINE,Title 8,1
+2024,FYTD,OCT,Other,MI,FMUA,UKRAINE,Title 8,73
+2024,FYTD,OCT,Other,MI,Single Adults,CANADA,Title 8,3
+2024,FYTD,OCT,Other,MI,Single Adults,CUBA,Title 8,7
+2024,FYTD,OCT,Other,MI,Single Adults,HAITI,Title 8,5
+2024,FYTD,OCT,Other,MI,Single Adults,INDIA,Title 8,1
+2024,FYTD,OCT,Other,MI,Single Adults,MEXICO,Title 8,5
+2024,FYTD,OCT,Other,MI,Single Adults,NICARAGUA,Title 8,1
+2024,FYTD,OCT,Other,MI,Single Adults,OTHER,Title 8,51
+2024,FYTD,OCT,Other,MI,Single Adults,PHILIPPINES,Title 8,4
+2024,FYTD,OCT,Other,MI,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,MI,Single Adults,UKRAINE,Title 8,62
+2024,FYTD,OCT,Other,MI,Single Adults,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Other,MN,FMUA,CUBA,Title 8,4
+2024,FYTD,OCT,Other,MN,FMUA,OTHER,Title 8,3
+2024,FYTD,OCT,Other,MN,FMUA,UKRAINE,Title 8,36
+2024,FYTD,OCT,Other,MN,Single Adults,CANADA,Title 8,1
+2024,FYTD,OCT,Other,MN,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
+2024,FYTD,OCT,Other,MN,Single Adults,CUBA,Title 8,1
+2024,FYTD,OCT,Other,MN,Single Adults,HAITI,Title 8,1
+2024,FYTD,OCT,Other,MN,Single Adults,MEXICO,Title 8,2
+2024,FYTD,OCT,Other,MN,Single Adults,OTHER,Title 8,44
+2024,FYTD,OCT,Other,MN,Single Adults,PHILIPPINES,Title 8,22
+2024,FYTD,OCT,Other,MN,Single Adults,ROMANIA,Title 8,2
+2024,FYTD,OCT,Other,MN,Single Adults,UKRAINE,Title 8,53
+2024,FYTD,OCT,Other,MO,FMUA,UKRAINE,Title 8,4
+2024,FYTD,OCT,Other,MO,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,MO,Single Adults,UKRAINE,Title 8,4
+2024,FYTD,OCT,Other,MP,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
+2024,FYTD,OCT,Other,MP,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,82
+2024,FYTD,OCT,Other,MP,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,801
+2024,FYTD,OCT,Other,MP,Single Adults,OTHER,Title 8,2
+2024,FYTD,OCT,Other,MP,Single Adults,PHILIPPINES,Title 8,5
+2024,FYTD,OCT,Other,MS,Single Adults,EL SALVADOR,Title 8,3
+2024,FYTD,OCT,Other,MS,Single Adults,GUATEMALA,Title 8,7
+2024,FYTD,OCT,Other,MS,Single Adults,HONDURAS,Title 8,8
+2024,FYTD,OCT,Other,MS,Single Adults,INDIA,Title 8,15
+2024,FYTD,OCT,Other,MS,Single Adults,MEXICO,Title 8,14
+2024,FYTD,OCT,Other,MS,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,MS,Single Adults,PHILIPPINES,Title 8,19
+2024,FYTD,OCT,Other,MS,Single Adults,RUSSIA,Title 8,19
+2024,FYTD,OCT,Other,MS,UC / Single Minors,MEXICO,Title 8,1
+2024,FYTD,OCT,Other,NC,FMUA,CUBA,Title 8,4
+2024,FYTD,OCT,Other,NC,FMUA,NICARAGUA,Title 8,3
+2024,FYTD,OCT,Other,NC,FMUA,UKRAINE,Title 8,68
+2024,FYTD,OCT,Other,NC,FMUA,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Other,NC,Single Adults,CUBA,Title 8,2
+2024,FYTD,OCT,Other,NC,Single Adults,HAITI,Title 8,4
+2024,FYTD,OCT,Other,NC,Single Adults,INDIA,Title 8,5
+2024,FYTD,OCT,Other,NC,Single Adults,MEXICO,Title 8,2
+2024,FYTD,OCT,Other,NC,Single Adults,NICARAGUA,Title 8,2
+2024,FYTD,OCT,Other,NC,Single Adults,OTHER,Title 8,9
+2024,FYTD,OCT,Other,NC,Single Adults,PHILIPPINES,Title 8,5
+2024,FYTD,OCT,Other,NC,Single Adults,RUSSIA,Title 8,3
+2024,FYTD,OCT,Other,NC,Single Adults,UKRAINE,Title 8,56
+2024,FYTD,OCT,Other,NC,Single Adults,VENEZUELA,Title 8,2
+2024,FYTD,OCT,Other,NJ,FMUA,COLOMBIA,Title 8,6
+2024,FYTD,OCT,Other,NJ,FMUA,CUBA,Title 8,14
+2024,FYTD,OCT,Other,NJ,FMUA,HAITI,Title 8,7
+2024,FYTD,OCT,Other,NJ,FMUA,NICARAGUA,Title 8,2
+2024,FYTD,OCT,Other,NJ,FMUA,OTHER,Title 8,2
+2024,FYTD,OCT,Other,NJ,FMUA,UKRAINE,Title 8,234
+2024,FYTD,OCT,Other,NJ,FMUA,VENEZUELA,Title 8,16
+2024,FYTD,OCT,Other,NJ,Single Adults,BRAZIL,Title 8,7
+2024,FYTD,OCT,Other,NJ,Single Adults,CANADA,Title 8,8
+2024,FYTD,OCT,Other,NJ,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,30
+2024,FYTD,OCT,Other,NJ,Single Adults,COLOMBIA,Title 8,10
+2024,FYTD,OCT,Other,NJ,Single Adults,CUBA,Title 8,26
+2024,FYTD,OCT,Other,NJ,Single Adults,ECUADOR,Title 8,1
+2024,FYTD,OCT,Other,NJ,Single Adults,GUATEMALA,Title 8,3
+2024,FYTD,OCT,Other,NJ,Single Adults,HAITI,Title 8,44
+2024,FYTD,OCT,Other,NJ,Single Adults,HONDURAS,Title 8,3
+2024,FYTD,OCT,Other,NJ,Single Adults,INDIA,Title 8,21
+2024,FYTD,OCT,Other,NJ,Single Adults,MEXICO,Title 8,3
+2024,FYTD,OCT,Other,NJ,Single Adults,MYANMAR (BURMA),Title 8,4
+2024,FYTD,OCT,Other,NJ,Single Adults,NICARAGUA,Title 8,4
+2024,FYTD,OCT,Other,NJ,Single Adults,OTHER,Title 8,107
+2024,FYTD,OCT,Other,NJ,Single Adults,PERU,Title 8,1
+2024,FYTD,OCT,Other,NJ,Single Adults,PHILIPPINES,Title 8,54
+2024,FYTD,OCT,Other,NJ,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,NJ,Single Adults,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,NJ,Single Adults,UKRAINE,Title 8,343
+2024,FYTD,OCT,Other,NJ,Single Adults,VENEZUELA,Title 8,30
+2024,FYTD,OCT,Other,NV,FMUA,CUBA,Title 8,3
+2024,FYTD,OCT,Other,NV,FMUA,MEXICO,Title 8,2
+2024,FYTD,OCT,Other,NV,FMUA,NICARAGUA,Title 8,6
+2024,FYTD,OCT,Other,NV,FMUA,UKRAINE,Title 8,13
+2024,FYTD,OCT,Other,NV,FMUA,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Other,NV,Single Adults,BRAZIL,Title 8,1
+2024,FYTD,OCT,Other,NV,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
+2024,FYTD,OCT,Other,NV,Single Adults,COLOMBIA,Title 8,4
+2024,FYTD,OCT,Other,NV,Single Adults,CUBA,Title 8,11
+2024,FYTD,OCT,Other,NV,Single Adults,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Other,NV,Single Adults,MEXICO,Title 8,10
+2024,FYTD,OCT,Other,NV,Single Adults,NICARAGUA,Title 8,11
+2024,FYTD,OCT,Other,NV,Single Adults,OTHER,Title 8,18
+2024,FYTD,OCT,Other,NV,Single Adults,PERU,Title 8,1
+2024,FYTD,OCT,Other,NV,Single Adults,UKRAINE,Title 8,25
+2024,FYTD,OCT,Other,NV,Single Adults,VENEZUELA,Title 8,3
+2024,FYTD,OCT,Other,NY,Accompanied Minors,HAITI,Title 8,8
+2024,FYTD,OCT,Other,NY,Accompanied Minors,OTHER,Title 8,5
+2024,FYTD,OCT,Other,NY,Accompanied Minors,UKRAINE,Title 8,3
+2024,FYTD,OCT,Other,NY,Accompanied Minors,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Other,NY,FMUA,COLOMBIA,Title 8,14
+2024,FYTD,OCT,Other,NY,FMUA,EL SALVADOR,Title 8,3
+2024,FYTD,OCT,Other,NY,FMUA,HAITI,Title 8,555
+2024,FYTD,OCT,Other,NY,FMUA,NICARAGUA,Title 8,46
+2024,FYTD,OCT,Other,NY,FMUA,OTHER,Title 8,7
+2024,FYTD,OCT,Other,NY,FMUA,RUSSIA,Title 8,3
+2024,FYTD,OCT,Other,NY,FMUA,UKRAINE,Title 8,495
+2024,FYTD,OCT,Other,NY,FMUA,VENEZUELA,Title 8,62
+2024,FYTD,OCT,Other,NY,Single Adults,BRAZIL,Title 8,7
+2024,FYTD,OCT,Other,NY,Single Adults,CANADA,Title 8,1
+2024,FYTD,OCT,Other,NY,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
+2024,FYTD,OCT,Other,NY,Single Adults,COLOMBIA,Title 8,14
+2024,FYTD,OCT,Other,NY,Single Adults,CUBA,Title 8,3
+2024,FYTD,OCT,Other,NY,Single Adults,ECUADOR,Title 8,3
+2024,FYTD,OCT,Other,NY,Single Adults,EL SALVADOR,Title 8,1
+2024,FYTD,OCT,Other,NY,Single Adults,GUATEMALA,Title 8,2
+2024,FYTD,OCT,Other,NY,Single Adults,HAITI,Title 8,1285
+2024,FYTD,OCT,Other,NY,Single Adults,INDIA,Title 8,8
+2024,FYTD,OCT,Other,NY,Single Adults,MEXICO,Title 8,7
+2024,FYTD,OCT,Other,NY,Single Adults,NICARAGUA,Title 8,54
+2024,FYTD,OCT,Other,NY,Single Adults,OTHER,Title 8,130
+2024,FYTD,OCT,Other,NY,Single Adults,PERU,Title 8,2
+2024,FYTD,OCT,Other,NY,Single Adults,PHILIPPINES,Title 8,9
+2024,FYTD,OCT,Other,NY,Single Adults,ROMANIA,Title 8,2
+2024,FYTD,OCT,Other,NY,Single Adults,RUSSIA,Title 8,8
+2024,FYTD,OCT,Other,NY,Single Adults,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,NY,Single Adults,UKRAINE,Title 8,600
+2024,FYTD,OCT,Other,NY,Single Adults,VENEZUELA,Title 8,84
+2024,FYTD,OCT,Other,OR,FMUA,UKRAINE,Title 8,45
+2024,FYTD,OCT,Other,OR,Single Adults,INDIA,Title 8,5
+2024,FYTD,OCT,Other,OR,Single Adults,MEXICO,Title 8,33
+2024,FYTD,OCT,Other,OR,Single Adults,OTHER,Title 8,7
+2024,FYTD,OCT,Other,OR,Single Adults,PHILIPPINES,Title 8,3
+2024,FYTD,OCT,Other,OR,Single Adults,ROMANIA,Title 8,1
+2024,FYTD,OCT,Other,OR,Single Adults,UKRAINE,Title 8,30
+2024,FYTD,OCT,Other,PA,FMUA,UKRAINE,Title 8,7
+2024,FYTD,OCT,Other,PA,Single Adults,CANADA,Title 8,2
+2024,FYTD,OCT,Other,PA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,18
+2024,FYTD,OCT,Other,PA,Single Adults,HAITI,Title 8,3
+2024,FYTD,OCT,Other,PA,Single Adults,INDIA,Title 8,51
+2024,FYTD,OCT,Other,PA,Single Adults,MEXICO,Title 8,3
+2024,FYTD,OCT,Other,PA,Single Adults,MYANMAR (BURMA),Title 8,15
+2024,FYTD,OCT,Other,PA,Single Adults,OTHER,Title 8,66
+2024,FYTD,OCT,Other,PA,Single Adults,PHILIPPINES,Title 8,87
+2024,FYTD,OCT,Other,PA,Single Adults,ROMANIA,Title 8,2
+2024,FYTD,OCT,Other,PA,Single Adults,RUSSIA,Title 8,28
+2024,FYTD,OCT,Other,PA,Single Adults,UKRAINE,Title 8,54
+2024,FYTD,OCT,Other,PR,FMUA,BRAZIL,Title 8,1
+2024,FYTD,OCT,Other,PR,FMUA,OTHER,Title 8,11
+2024,FYTD,OCT,Other,PR,FMUA,ROMANIA,Title 8,15
+2024,FYTD,OCT,Other,PR,FMUA,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Other,PR,Single Adults,BRAZIL,Title 8,4
+2024,FYTD,OCT,Other,PR,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,21
+2024,FYTD,OCT,Other,PR,Single Adults,COLOMBIA,Title 8,10
+2024,FYTD,OCT,Other,PR,Single Adults,CUBA,Title 8,2
+2024,FYTD,OCT,Other,PR,Single Adults,ECUADOR,Title 8,6
+2024,FYTD,OCT,Other,PR,Single Adults,EL SALVADOR,Title 8,119
+2024,FYTD,OCT,Other,PR,Single Adults,GUATEMALA,Title 8,12
+2024,FYTD,OCT,Other,PR,Single Adults,HAITI,Title 8,58
+2024,FYTD,OCT,Other,PR,Single Adults,HONDURAS,Title 8,318
+2024,FYTD,OCT,Other,PR,Single Adults,INDIA,Title 8,44
+2024,FYTD,OCT,Other,PR,Single Adults,MEXICO,Title 8,16
+2024,FYTD,OCT,Other,PR,Single Adults,MYANMAR (BURMA),Title 8,24
+2024,FYTD,OCT,Other,PR,Single Adults,NICARAGUA,Title 8,38
+2024,FYTD,OCT,Other,PR,Single Adults,OTHER,Title 8,348
+2024,FYTD,OCT,Other,PR,Single Adults,PERU,Title 8,5
+2024,FYTD,OCT,Other,PR,Single Adults,PHILIPPINES,Title 8,282
+2024,FYTD,OCT,Other,PR,Single Adults,RUSSIA,Title 8,36
+2024,FYTD,OCT,Other,PR,Single Adults,TURKEY,Title 8,4
+2024,FYTD,OCT,Other,PR,Single Adults,UKRAINE,Title 8,16
+2024,FYTD,OCT,Other,PR,Single Adults,VENEZUELA,Title 8,68
+2024,FYTD,OCT,Other,PR,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Other,RI,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,RI,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,SC,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,6
+2024,FYTD,OCT,Other,SC,Single Adults,COLOMBIA,Title 8,1
+2024,FYTD,OCT,Other,SC,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,SC,Single Adults,INDIA,Title 8,9
+2024,FYTD,OCT,Other,SC,Single Adults,MYANMAR (BURMA),Title 8,8
+2024,FYTD,OCT,Other,SC,Single Adults,OTHER,Title 8,39
+2024,FYTD,OCT,Other,SC,Single Adults,PHILIPPINES,Title 8,74
+2024,FYTD,OCT,Other,SC,Single Adults,RUSSIA,Title 8,7
+2024,FYTD,OCT,Other,SC,Single Adults,UKRAINE,Title 8,10
+2024,FYTD,OCT,Other,TN,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,TN,Single Adults,UKRAINE,Title 8,1
+2024,FYTD,OCT,Other,TX,Accompanied Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,2
+2024,FYTD,OCT,Other,TX,Accompanied Minors,CUBA,Title 8,8
+2024,FYTD,OCT,Other,TX,Accompanied Minors,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,TX,Accompanied Minors,MEXICO,Title 8,1
+2024,FYTD,OCT,Other,TX,Accompanied Minors,NICARAGUA,Title 8,2
+2024,FYTD,OCT,Other,TX,Accompanied Minors,OTHER,Title 8,2
+2024,FYTD,OCT,Other,TX,FMUA,COLOMBIA,Title 8,9
+2024,FYTD,OCT,Other,TX,FMUA,CUBA,Title 8,129
+2024,FYTD,OCT,Other,TX,FMUA,EL SALVADOR,Title 8,25
+2024,FYTD,OCT,Other,TX,FMUA,GUATEMALA,Title 8,7
+2024,FYTD,OCT,Other,TX,FMUA,HAITI,Title 8,3
+2024,FYTD,OCT,Other,TX,FMUA,HONDURAS,Title 8,8
+2024,FYTD,OCT,Other,TX,FMUA,MEXICO,Title 8,19
+2024,FYTD,OCT,Other,TX,FMUA,NICARAGUA,Title 8,144
+2024,FYTD,OCT,Other,TX,FMUA,OTHER,Title 8,24
+2024,FYTD,OCT,Other,TX,FMUA,PERU,Title 8,1
+2024,FYTD,OCT,Other,TX,FMUA,TURKEY,Title 8,1
+2024,FYTD,OCT,Other,TX,FMUA,UKRAINE,Title 8,76
+2024,FYTD,OCT,Other,TX,FMUA,VENEZUELA,Title 8,141
+2024,FYTD,OCT,Other,TX,Single Adults,BRAZIL,Title 8,11
+2024,FYTD,OCT,Other,TX,Single Adults,CANADA,Title 8,3
+2024,FYTD,OCT,Other,TX,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,343
+2024,FYTD,OCT,Other,TX,Single Adults,COLOMBIA,Title 8,31
+2024,FYTD,OCT,Other,TX,Single Adults,CUBA,Title 8,269
+2024,FYTD,OCT,Other,TX,Single Adults,ECUADOR,Title 8,10
+2024,FYTD,OCT,Other,TX,Single Adults,EL SALVADOR,Title 8,33
+2024,FYTD,OCT,Other,TX,Single Adults,GUATEMALA,Title 8,28
+2024,FYTD,OCT,Other,TX,Single Adults,HAITI,Title 8,34
+2024,FYTD,OCT,Other,TX,Single Adults,HONDURAS,Title 8,37
+2024,FYTD,OCT,Other,TX,Single Adults,INDIA,Title 8,721
+2024,FYTD,OCT,Other,TX,Single Adults,MEXICO,Title 8,134
+2024,FYTD,OCT,Other,TX,Single Adults,MYANMAR (BURMA),Title 8,138
+2024,FYTD,OCT,Other,TX,Single Adults,NICARAGUA,Title 8,286
+2024,FYTD,OCT,Other,TX,Single Adults,OTHER,Title 8,894
+2024,FYTD,OCT,Other,TX,Single Adults,PERU,Title 8,76
+2024,FYTD,OCT,Other,TX,Single Adults,PHILIPPINES,Title 8,1545
+2024,FYTD,OCT,Other,TX,Single Adults,ROMANIA,Title 8,20
+2024,FYTD,OCT,Other,TX,Single Adults,RUSSIA,Title 8,480
+2024,FYTD,OCT,Other,TX,Single Adults,TURKEY,Title 8,62
+2024,FYTD,OCT,Other,TX,Single Adults,UKRAINE,Title 8,280
+2024,FYTD,OCT,Other,TX,Single Adults,VENEZUELA,Title 8,207
+2024,FYTD,OCT,Other,TX,UC / Single Minors,CUBA,Title 8,1
+2024,FYTD,OCT,Other,TX,UC / Single Minors,NICARAGUA,Title 8,2
+2024,FYTD,OCT,Other,TX,UC / Single Minors,OTHER,Title 8,1
+2024,FYTD,OCT,Other,UT,FMUA,UKRAINE,Title 8,19
+2024,FYTD,OCT,Other,UT,Single Adults,MEXICO,Title 8,1
+2024,FYTD,OCT,Other,UT,Single Adults,OTHER,Title 8,1
+2024,FYTD,OCT,Other,UT,Single Adults,UKRAINE,Title 8,11
+2024,FYTD,OCT,Other,UT,Single Adults,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Other,VA,Accompanied Minors,EL SALVADOR,Title 8,3
+2024,FYTD,OCT,Other,VA,Accompanied Minors,NICARAGUA,Title 8,1
+2024,FYTD,OCT,Other,VA,FMUA,COLOMBIA,Title 8,3
+2024,FYTD,OCT,Other,VA,FMUA,EL SALVADOR,Title 8,5
+2024,FYTD,OCT,Other,VA,FMUA,NICARAGUA,Title 8,57
+2024,FYTD,OCT,Other,VA,FMUA,OTHER,Title 8,11
+2024,FYTD,OCT,Other,VA,FMUA,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,VA,FMUA,UKRAINE,Title 8,67
+2024,FYTD,OCT,Other,VA,FMUA,VENEZUELA,Title 8,9
+2024,FYTD,OCT,Other,VA,Single Adults,BRAZIL,Title 8,4
+2024,FYTD,OCT,Other,VA,Single Adults,CANADA,Title 8,2
+2024,FYTD,OCT,Other,VA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,41
+2024,FYTD,OCT,Other,VA,Single Adults,COLOMBIA,Title 8,1
+2024,FYTD,OCT,Other,VA,Single Adults,EL SALVADOR,Title 8,8
+2024,FYTD,OCT,Other,VA,Single Adults,GUATEMALA,Title 8,1
+2024,FYTD,OCT,Other,VA,Single Adults,HONDURAS,Title 8,4
+2024,FYTD,OCT,Other,VA,Single Adults,INDIA,Title 8,3
+2024,FYTD,OCT,Other,VA,Single Adults,MEXICO,Title 8,3
+2024,FYTD,OCT,Other,VA,Single Adults,MYANMAR (BURMA),Title 8,2
+2024,FYTD,OCT,Other,VA,Single Adults,NICARAGUA,Title 8,136
+2024,FYTD,OCT,Other,VA,Single Adults,OTHER,Title 8,39
+2024,FYTD,OCT,Other,VA,Single Adults,PERU,Title 8,2
+2024,FYTD,OCT,Other,VA,Single Adults,PHILIPPINES,Title 8,57
+2024,FYTD,OCT,Other,VA,Single Adults,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,VA,Single Adults,UKRAINE,Title 8,80
+2024,FYTD,OCT,Other,VA,Single Adults,VENEZUELA,Title 8,14
+2024,FYTD,OCT,Other,VI,FMUA,ECUADOR,Title 8,9
+2024,FYTD,OCT,Other,VI,FMUA,INDIA,Title 8,3
+2024,FYTD,OCT,Other,VI,FMUA,OTHER,Title 8,1
+2024,FYTD,OCT,Other,VI,FMUA,ROMANIA,Title 8,5
+2024,FYTD,OCT,Other,VI,FMUA,VENEZUELA,Title 8,2
+2024,FYTD,OCT,Other,VI,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,4
+2024,FYTD,OCT,Other,VI,Single Adults,COLOMBIA,Title 8,2
+2024,FYTD,OCT,Other,VI,Single Adults,CUBA,Title 8,1
+2024,FYTD,OCT,Other,VI,Single Adults,ECUADOR,Title 8,5
+2024,FYTD,OCT,Other,VI,Single Adults,EL SALVADOR,Title 8,3
+2024,FYTD,OCT,Other,VI,Single Adults,HAITI,Title 8,1
+2024,FYTD,OCT,Other,VI,Single Adults,HONDURAS,Title 8,4
+2024,FYTD,OCT,Other,VI,Single Adults,INDIA,Title 8,27
+2024,FYTD,OCT,Other,VI,Single Adults,MEXICO,Title 8,1
+2024,FYTD,OCT,Other,VI,Single Adults,MYANMAR (BURMA),Title 8,8
+2024,FYTD,OCT,Other,VI,Single Adults,NICARAGUA,Title 8,6
+2024,FYTD,OCT,Other,VI,Single Adults,OTHER,Title 8,28
+2024,FYTD,OCT,Other,VI,Single Adults,PERU,Title 8,4
+2024,FYTD,OCT,Other,VI,Single Adults,PHILIPPINES,Title 8,26
+2024,FYTD,OCT,Other,VI,Single Adults,ROMANIA,Title 8,7
+2024,FYTD,OCT,Other,VI,Single Adults,RUSSIA,Title 8,10
+2024,FYTD,OCT,Other,VI,Single Adults,TURKEY,Title 8,21
+2024,FYTD,OCT,Other,VI,Single Adults,VENEZUELA,Title 8,10
+2024,FYTD,OCT,Other,WA,FMUA,INDIA,Title 8,2
+2024,FYTD,OCT,Other,WA,FMUA,OTHER,Title 8,10
+2024,FYTD,OCT,Other,WA,FMUA,RUSSIA,Title 8,1
+2024,FYTD,OCT,Other,WA,FMUA,UKRAINE,Title 8,292
+2024,FYTD,OCT,Other,WA,Single Adults,BRAZIL,Title 8,25
+2024,FYTD,OCT,Other,WA,Single Adults,CANADA,Title 8,3
+2024,FYTD,OCT,Other,WA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,27
+2024,FYTD,OCT,Other,WA,Single Adults,CUBA,Title 8,1
+2024,FYTD,OCT,Other,WA,Single Adults,HAITI,Title 8,3
+2024,FYTD,OCT,Other,WA,Single Adults,HONDURAS,Title 8,1
+2024,FYTD,OCT,Other,WA,Single Adults,INDIA,Title 8,51
+2024,FYTD,OCT,Other,WA,Single Adults,MEXICO,Title 8,5
+2024,FYTD,OCT,Other,WA,Single Adults,MYANMAR (BURMA),Title 8,27
+2024,FYTD,OCT,Other,WA,Single Adults,OTHER,Title 8,43
+2024,FYTD,OCT,Other,WA,Single Adults,PHILIPPINES,Title 8,90
+2024,FYTD,OCT,Other,WA,Single Adults,RUSSIA,Title 8,21
+2024,FYTD,OCT,Other,WA,Single Adults,UKRAINE,Title 8,226
+2024,FYTD,OCT,Other,WA,Single Adults,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Other,WA,UC / Single Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,1
+2024,FYTD,OCT,Southwest Land Border,AZ,Accompanied Minors,COLOMBIA,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,AZ,Accompanied Minors,CUBA,Title 8,3
+2024,FYTD,OCT,Southwest Land Border,AZ,Accompanied Minors,MEXICO,Title 8,9
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,BRAZIL,Title 8,148
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,COLOMBIA,Title 8,798
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,CUBA,Title 8,374
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,ECUADOR,Title 8,3326
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,EL SALVADOR,Title 8,335
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,GUATEMALA,Title 8,7424
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,HAITI,Title 8,84
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,HONDURAS,Title 8,438
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,INDIA,Title 8,927
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,MEXICO,Title 8,17802
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,NICARAGUA,Title 8,30
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,OTHER,Title 8,491
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,PERU,Title 8,759
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,RUSSIA,Title 8,36
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,UKRAINE,Title 8,2
+2024,FYTD,OCT,Southwest Land Border,AZ,FMUA,VENEZUELA,Title 8,285
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,BRAZIL,Title 8,94
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,8
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,COLOMBIA,Title 8,1149
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,CUBA,Title 8,779
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,ECUADOR,Title 8,3690
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,EL SALVADOR,Title 8,99
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,GUATEMALA,Title 8,1454
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,HAITI,Title 8,254
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,HONDURAS,Title 8,167
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,INDIA,Title 8,2170
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,MEXICO,Title 8,9046
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,NICARAGUA,Title 8,230
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,OTHER,Title 8,7574
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,PERU,Title 8,1095
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,RUSSIA,Title 8,15
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,UKRAINE,Title 8,2
+2024,FYTD,OCT,Southwest Land Border,AZ,Single Adults,VENEZUELA,Title 8,804
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,COLOMBIA,Title 8,15
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,CUBA,Title 8,16
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,ECUADOR,Title 8,164
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,EL SALVADOR,Title 8,44
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,GUATEMALA,Title 8,1537
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,HAITI,Title 8,18
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,HONDURAS,Title 8,68
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,INDIA,Title 8,53
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,MEXICO,Title 8,1222
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,NICARAGUA,Title 8,13
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,OTHER,Title 8,141
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,PERU,Title 8,25
+2024,FYTD,OCT,Southwest Land Border,AZ,UC / Single Minors,VENEZUELA,Title 8,13
+2024,FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,CUBA,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,HONDURAS,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,MEXICO,Title 8,25
+2024,FYTD,OCT,Southwest Land Border,CA,Accompanied Minors,VENEZUELA,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,BRAZIL,Title 8,585
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,524
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,COLOMBIA,Title 8,2134
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,CUBA,Title 8,1428
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,ECUADOR,Title 8,526
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,EL SALVADOR,Title 8,236
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,GUATEMALA,Title 8,579
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,HAITI,Title 8,195
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,HONDURAS,Title 8,602
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,INDIA,Title 8,130
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,MEXICO,Title 8,3142
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,NICARAGUA,Title 8,37
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,OTHER,Title 8,1608
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,PERU,Title 8,467
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,ROMANIA,Title 8,40
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,RUSSIA,Title 8,903
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,TURKEY,Title 8,195
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,UKRAINE,Title 8,4
+2024,FYTD,OCT,Southwest Land Border,CA,FMUA,VENEZUELA,Title 8,627
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,BRAZIL,Title 8,1246
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,CANADA,Title 8,3
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,3694
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,COLOMBIA,Title 8,4056
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,CUBA,Title 8,3168
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,ECUADOR,Title 8,800
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,EL SALVADOR,Title 8,241
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,GUATEMALA,Title 8,358
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,HAITI,Title 8,417
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,HONDURAS,Title 8,439
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,INDIA,Title 8,833
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,MEXICO,Title 8,5511
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,MYANMAR (BURMA),Title 8,1
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,NICARAGUA,Title 8,133
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,OTHER,Title 8,8053
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,PERU,Title 8,711
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,ROMANIA,Title 8,45
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,RUSSIA,Title 8,655
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,TURKEY,Title 8,1069
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,UKRAINE,Title 8,12
+2024,FYTD,OCT,Southwest Land Border,CA,Single Adults,VENEZUELA,Title 8,1720
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,BRAZIL,Title 8,7
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,"CHINA, PEOPLES REPUBLIC OF",Title 8,3
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,COLOMBIA,Title 8,69
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,CUBA,Title 8,40
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,ECUADOR,Title 8,65
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,EL SALVADOR,Title 8,6
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,GUATEMALA,Title 8,71
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,HAITI,Title 8,34
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,HONDURAS,Title 8,31
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,INDIA,Title 8,20
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,MEXICO,Title 8,271
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,NICARAGUA,Title 8,7
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,OTHER,Title 8,182
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,PERU,Title 8,10
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,ROMANIA,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,RUSSIA,Title 8,4
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,TURKEY,Title 8,14
+2024,FYTD,OCT,Southwest Land Border,CA,UC / Single Minors,VENEZUELA,Title 8,21
+2024,FYTD,OCT,Southwest Land Border,NM,Accompanied Minors,MEXICO,Title 8,2
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,COLOMBIA,Title 8,16
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,ECUADOR,Title 8,46
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,EL SALVADOR,Title 8,117
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,GUATEMALA,Title 8,281
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,HONDURAS,Title 8,92
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,MEXICO,Title 8,358
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,OTHER,Title 8,11
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,PERU,Title 8,5
+2024,FYTD,OCT,Southwest Land Border,NM,FMUA,VENEZUELA,Title 8,4
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,BRAZIL,Title 8,10
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,COLOMBIA,Title 8,56
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,CUBA,Title 8,7
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,ECUADOR,Title 8,234
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,EL SALVADOR,Title 8,172
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,GUATEMALA,Title 8,1044
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,HONDURAS,Title 8,260
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,MEXICO,Title 8,4873
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,NICARAGUA,Title 8,12
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,OTHER,Title 8,36
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,PERU,Title 8,7
+2024,FYTD,OCT,Southwest Land Border,NM,Single Adults,VENEZUELA,Title 8,40
+2024,FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,ECUADOR,Title 8,12
+2024,FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,EL SALVADOR,Title 8,30
+2024,FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,GUATEMALA,Title 8,99
+2024,FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,HONDURAS,Title 8,25
+2024,FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,MEXICO,Title 8,267
+2024,FYTD,OCT,Southwest Land Border,NM,UC / Single Minors,NICARAGUA,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,CUBA,Title 8,5
+2024,FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,ECUADOR,Title 8,3
+2024,FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,HONDURAS,Title 8,2
+2024,FYTD,OCT,Southwest Land Border,TX,Accompanied Minors,MEXICO,Title 8,68
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,BRAZIL,Title 8,359
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,CANADA,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,"CHINA, PEOPLES REPUBLIC OF",Title 8,13
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,COLOMBIA,Title 8,2881
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,CUBA,Title 8,1894
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,ECUADOR,Title 8,1686
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,EL SALVADOR,Title 8,4215
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,GUATEMALA,Title 8,6912
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,HAITI,Title 8,1104
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,HONDURAS,Title 8,12332
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,MEXICO,Title 8,8347
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,NICARAGUA,Title 8,355
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,OTHER,Title 8,692
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,PERU,Title 8,685
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,PHILIPPINES,Title 8,2
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,RUSSIA,Title 8,239
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,UKRAINE,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,TX,FMUA,VENEZUELA,Title 8,16421
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,BRAZIL,Title 8,21
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,CANADA,Title 8,3
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,"CHINA, PEOPLES REPUBLIC OF",Title 8,19
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,COLOMBIA,Title 8,2528
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,CUBA,Title 8,4718
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,ECUADOR,Title 8,1519
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,EL SALVADOR,Title 8,976
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,GUATEMALA,Title 8,1994
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,HAITI,Title 8,2479
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,HONDURAS,Title 8,5210
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,INDIA,Title 8,13
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,MEXICO,Title 8,11100
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,MYANMAR (BURMA),Title 8,1
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,NICARAGUA,Title 8,2358
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,OTHER,Title 8,578
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,PERU,Title 8,360
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,ROMANIA,Title 8,8
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,RUSSIA,Title 8,134
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,TURKEY,Title 8,4
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,UKRAINE,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,TX,Single Adults,VENEZUELA,Title 8,20485
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,BRAZIL,Title 8,3
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,COLOMBIA,Title 8,70
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,CUBA,Title 8,62
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,ECUADOR,Title 8,83
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,EL SALVADOR,Title 8,779
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,GUATEMALA,Title 8,2092
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,HAITI,Title 8,98
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,HONDURAS,Title 8,2152
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,MEXICO,Title 8,960
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,NICARAGUA,Title 8,130
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,OTHER,Title 8,18
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,PERU,Title 8,8
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,RUSSIA,Title 8,5
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,TURKEY,Title 8,1
+2024,FYTD,OCT,Southwest Land Border,TX,UC / Single Minors,VENEZUELA,Title 8,442
